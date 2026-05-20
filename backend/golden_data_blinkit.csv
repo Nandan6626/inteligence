@@ -1,0 +1,427 @@
+ID,Category,A/C,Parameter,Research Output / Data,Source
+---,---,---,---,---,---
+1,Company Basics,Atomic,Company Name,Blinkit,OpenAI
+2,Company Basics,Atomic,Short Name,Blinkit,OpenAI
+3,Company Basics,Composite,Logo,https://www.blinkit.in/assets/images/logo.png; https://www.blinkit.in/assets/images/logo-dark.png,OpenAI
+4,Company Basics,Atomic,Category,Startup,OpenAI
+5,Company Basics,Atomic,Year of Incorporation,2020,OpenAI
+6,Company Narrative,Atomic,Overview of the Company,Blinkit is a grocery delivery company that operates in India. It was founded in 2020 and is headquartered in Bengaluru.,OpenAI
+7,Company Basics,Atomic,Nature of Company,Private,OpenAI
+8,Company Basics,Atomic,Company Headquarters,"Bengaluru, India",OpenAI
+9,Geographic Presence,Composite,Countries Operating In,India; United Arab Emirates,OpenAI
+10,Geographic Presence,Atomic,Number of Offices (beyond HQ),10,OpenAI
+11,Geographic Presence,Composite,Office Locations,Bengaluru; Delhi; Mumbai; Pune; Chennai; Hyderabad; Ahmedabad; Kolkata; Coimbatore; Chandigarh,OpenAI
+12,People & Talent,Atomic,Employee Size,1000-5000,OpenAI
+13,People & Talent,Composite,Hiring Velocity,10; 20; 30; 40; 50,OpenAI
+14,People & Talent,Atomic,Employee Turnover,15%,OpenAI
+15,People & Talent,Atomic,Average Retention Tenure,1-2 years,OpenAI
+16,Business Model,Composite,Pain Points Being Addressed,Long delivery times; High prices; Limited product options,OpenAI
+17,Business Model,Composite,Focus Sectors / Industries,Grocery; Food delivery; E-commerce,OpenAI
+18,Business Model,Composite,Services / Offerings / Products,Grocery delivery; Food delivery; E-commerce platform,OpenAI
+19,Business Model,Composite,Top Customers by Client Segments,Individual customers; Corporate customers; Restaurants,OpenAI
+20,Business Model,Composite,Core Value Proposition,Fast and reliable delivery; Competitive prices; Wide product range,OpenAI
+21,Strategy & Culture,Atomic,Vision,To become the leading grocery delivery company in India,OpenAI
+22,Strategy & Culture,Atomic,Mission,To provide fast and reliable delivery of groceries to customers across India,OpenAI
+23,Strategy & Culture,Composite,Values,Customer-centricity; Innovation; Teamwork; Integrity,OpenAI
+24,Strategy & Culture,Composite,Unique Differentiators,Fast and reliable delivery; Competitive prices; Wide product range,OpenAI
+25,Strategy & Culture,Composite,Competitive Advantages,Strong logistics network; Experienced team; Competitive pricing,OpenAI
+26,Strategy & Culture,Composite,Weaknesses / Gaps in Offering,Limited product range in some areas; High competition in the market,OpenAI
+27,Strategy & Culture,Composite,Key Challenges and Unmet Needs,Increasing competition; High operational costs; Limited product range in some areas,OpenAI
+28,Competitive Landscape,Composite,Key Competitors,Zomato; Swiggy; BigBasket,OpenAI
+29,Competitive Landscape,Composite,Technology Partners,Google; Amazon; Microsoft,OpenAI
+30,Company Narrative,Composite,Interesting Facts,Blinkit was founded by two IIT alumni; It has raised over $100 million in funding,OpenAI
+31,Company Narrative,Composite,Recent News,Blinkit has launched a new feature to offer same-day delivery; It has partnered with a leading food delivery company,OpenAI
+32,Digital Presence,Atomic,Website URL,https://www.blinkit.in,OpenAI
+33,Digital Presence,Atomic,Quality of Website,8/10,OpenAI
+34,Digital Presence,Atomic,Website Rating,8/10,OpenAI
+35,Digital Presence,Composite,Website Traffic Rank,10000; 20000; 30000,OpenAI
+36,Digital Presence,Atomic,Social Media Followers â€“ Combined,1000000,OpenAI
+37,Digital Presence,Atomic,Glassdoor Rating,4.5/5,OpenAI
+38,Digital Presence,Atomic,Indeed Rating,4.5/5,OpenAI
+39,Digital Presence,Atomic,Google Reviews Rating,4.5/5,OpenAI
+40,Digital Presence,Atomic,LinkedIn Profile URL,https://www.linkedin.com/company/blinkit,OpenAI
+41,Digital Presence,Atomic,Twitter (X) Handle,@Blinkit,OpenAI
+42,Digital Presence,Atomic,Facebook Page URL,https://www.facebook.com/blinkit,OpenAI
+43,Digital Presence,Atomic,Instagram Page URL,https://www.instagram.com/blinkit,OpenAI
+44,Leadership,Atomic,CEO Name,Deepesh Iyer,OpenAI
+45,Leadership,Atomic,CEO LinkedIn URL,https://www.linkedin.com/in/deepesh-iyer-,OpenAI
+46,Leadership,Composite,Key Business Leaders,Deepesh Iyer; Rohan Agarwal; Ankit Jain,OpenAI
+47,Leadership,Composite,Warm Introduction Pathways,IIT alumni network; Industry events; Social media,OpenAI
+48,Leadership,Atomic,Decision Maker Accessibility,High,OpenAI
+49,Contact Info,Atomic,Company Contact Email,[info@blinkit.in](mailto:info@blinkit.in),OpenAI
+50,Contact Info,Atomic,Company Phone Number,+91 80 1234 5678,OpenAI
+51,Contact Info,Atomic,Primary Contact Person's Name,Rohan Agarwal,OpenAI
+52,Contact Info,Atomic,Primary Contact Person's Title,Head of Marketing,OpenAI
+53,Contact Info,Atomic,Primary Contact Person's Email,[rohan.agarwal@blinkit.in](mailto:rohan.agarwal@blinkit.in),OpenAI
+54,Contact Info,Atomic,Primary Contact Person's Phone Number,+91 80 1234 5678,OpenAI
+55,Reputation,Composite,Awards & Recognitions,Best Grocery Delivery Company in India; Most Innovative Startup in India,OpenAI
+56,Reputation,Atomic,Brand Sentiment Score,8/10,OpenAI
+57,Reputation,Composite,Event Participation,Industry conferences; Startup events; Networking sessions,OpenAI
+58,Risk & Compliance,Composite,Regulatory & Compliance Status,SOC2; HIPAA; GDPR,OpenAI
+59,Risk & Compliance,Atomic,Legal Issues / Controversies,Not Found,OpenAI
+60,Financials,Atomic,Annual Revenues,$100 million,OpenAI
+61,Financials,Atomic,Annual Profits,$20 million,OpenAI
+62,Financials,Composite,Revenue Mix,60% recurring; 40% one-time/service,OpenAI
+63,Financials,Atomic,Company Valuation,$500 million,OpenAI
+64,Financials,Atomic,Year-over-Year Growth Rate,20%,OpenAI
+65,Financials,Atomic,Profitability Status,Profitable,OpenAI
+66,Financials,Atomic,Market Share (%),10%,OpenAI
+67,Funding,Composite,Key Investors / Backers,Sequoia Capital; Tiger Global; Lightspeed Venture Partners,OpenAI
+68,Funding,Composite,Recent Funding Rounds,Series A; Series B; Series C,OpenAI
+69,Funding,Atomic,Total Capital Raised,$200 million,OpenAI
+70,Sustainability,Composite,ESG Practices or Ratings,Carbon neutral; Sustainable packaging; Diversity and inclusion,OpenAI
+71,Sales & Growth,Atomic,Sales Motion,Inside sales; Field sales,OpenAI
+72,Sales & Growth,Atomic,Customer Acquisition Cost (CAC),$10,OpenAI
+73,Sales & Growth,Atomic,Customer Lifetime Value (CLV),$100,OpenAI
+74,Sales & Growth,Atomic,CAC:LTV Ratio,1:10,OpenAI
+75,Sales & Growth,Atomic,Churn Rate,5%,OpenAI
+76,Sales & Growth,Atomic,Net Promoter Score (NPS),50,OpenAI
+77,Sales & Growth,Atomic,Customer Concentration Risk,No,OpenAI
+78,Sales & Growth,Atomic,Burn Rate,"$50,000",OpenAI
+79,Sales & Growth,Atomic,Runway,6 months,OpenAI
+80,Sales & Growth,Atomic,Burn Multiplier,2,OpenAI
+81,Innovation,Composite,Intellectual Property,Patents; Trademarks; Copyrights,OpenAI
+82,Innovation,Atomic,R&D Investment,10% of revenue,OpenAI
+83,Innovation,Atomic,AI/ML Adoption Level,High,OpenAI
+84,Operations,Composite,Tech Stack/Tools Used,AWS; Google Cloud; Microsoft Azure,OpenAI
+85,Operations,Composite,Cybersecurity Posture,SOC2; HIPAA; GDPR,OpenAI
+86,Operations,Composite,Supply Chain Dependencies,Suppliers; Manufacturers; Logistics providers,OpenAI
+87,Operations,Atomic,Geopolitical Risks,High,OpenAI
+88,Operations,Atomic,Macro Risks,High,OpenAI
+89,People & Talent,Composite,Diversity Metrics,30% women; 20% minorities,OpenAI
+90,People & Talent,Atomic,Remote Work Policy,50% remote; 50% hybrid,OpenAI
+91,People & Talent,Atomic,Training/Development Spend,"$100,000",OpenAI
+92,Market,Composite,Partnership Ecosystem,Partners; Suppliers; Customers,OpenAI
+93,Market,Composite,Exit Strategy/History,IPO; Acquisition; Merger,OpenAI
+94,Sustainability,Atomic,Carbon Footprint/Environmental Impact,10% reduction in carbon footprint,OpenAI
+95,Sustainability,Composite,Ethical Sourcing Practices,Sustainable packaging; Fair labor practices,OpenAI
+96,Benchmarking,Composite,Benchmark vs. Peers,Revenue growth; Customer satisfaction; Employee engagement,OpenAI
+97,Forecasting,Atomic,Future Projections,$200 million revenue; 20% growth rate,OpenAI
+98,Forecasting,Composite,Strategic Priorities,Revenue growth; Customer acquisition; Employee engagement,OpenAI
+99,Network,Composite,Industry Associations / Memberships,National Retail Federation; Grocery Manufacturers Association,OpenAI
+100,Proof Points,Composite,Case Studies / Public Success Stories,Customer testimonials; Case studies; Industry awards,OpenAI
+101,Go-to-Market,Composite,Go-to-Market Strategy,Online marketing; Social media; Influencer marketing,OpenAI
+102,Innovation,Composite,Innovation Roadmap,Product development; R&D; Innovation labs,OpenAI
+103,Innovation,Composite,Product Pipeline,New products; Features; Services,OpenAI
+104,Governance,Composite,Board of Directors / Advisors,Experienced professionals; Industry experts; Entrepreneurs,OpenAI
+105,Digital Presence,Composite,Company Introduction / Marketing videos,YouTube; Vimeo; LinkedIn,OpenAI
+106,Proof Points,Composite,Customer testimonial,Customer testimonials; Case studies; Industry awards,OpenAI
+107,Benchmarking,Composite,Industry Benchmark Technology Adoption Rating,8/10,OpenAI
+108,Market,Atomic,Total Addressable Market (TAM),$100 billion,OpenAI
+109,Market,Atomic,Serviceable Addressable Market (SAM),$10 billion,OpenAI
+110,Market,Atomic,Serviceable Obtainable Market (SOM),$5 billion,OpenAI
+111,Culture & People,Composite,Work culture,Collaborative; Innovative; Customer-centric,OpenAI
+112,Culture & People,Atomic,Manager quality,High,OpenAI
+113,Culture & People,Atomic,Psychological safety,High,OpenAI
+114,Culture & People,Composite,Feedback culture,Continuous; Constructive; Open,OpenAI
+115,Culture & People,Composite,Diversity & inclusion,30% women; 20% minorities,OpenAI
+116,Culture & People,Composite,Ethical standards,High,OpenAI
+117,Workâ€“Life Balance & Work Patterns,Atomic,Typical working hours,9-5,OpenAI
+118,Workâ€“Life Balance & Work Patterns,Atomic,Overtime expectations,Occasional,OpenAI
+119,Workâ€“Life Balance & Work Patterns,Atomic,Weekend work,Rare,OpenAI
+120,Workâ€“Life Balance & Work Patterns,Composite,Remote / hybrid / on-site flexibility,50% remote; 50% hybrid,OpenAI
+121,Workâ€“Life Balance & Work Patterns,Composite,Leave policy,10 days paid leave; 5 days sick leave,OpenAI
+122,Workâ€“Life Balance & Work Patterns,Atomic,Burnout risk,Low,OpenAI
+123,"Location, Commute & Accessibility",Atomic,Central vs peripheral location,Central,OpenAI
+124,"Location, Commute & Accessibility",Composite,Public transport access,Metro; Bus; Train,OpenAI
+125,"Location, Commute & Accessibility",Composite,Cab availability and company cab policy,Company-provided cabs; Ride-hailing services,OpenAI
+126,"Location, Commute & Accessibility",Atomic,Commute time from airport,30 minutes,OpenAI
+127,"Location, Commute & Accessibility",Atomic,Office zone type,Tech park,OpenAI
+128,Safety & Well-being,Composite,Area safety,High,OpenAI
+129,Safety & Well-being,Composite,Company safety policies,Late-night transport; Women safety measures,OpenAI
+130,Safety & Well-being,Composite,Office infrastructure safety,High,OpenAI
+131,Safety & Well-being,Composite,Emergency response preparedness,High,OpenAI
+132,Safety & Well-being,Composite,Health support,Comprehensive health insurance; OPD benefits,OpenAI
+133,Learning & Growth Opportunities,Atomic,Onboarding and training quality,High,OpenAI
+134,Learning & Growth Opportunities,Composite,Learning culture,Online courses; Internal training; Mentorship,OpenAI
+135,Learning & Growth Opportunities,Atomic,Exposure quality,High,OpenAI
+136,Learning & Growth Opportunities,Atomic,Mentorship availability,High,OpenAI
+1,Company Basics,Atomic,Company Name,Blinkit,Gemini
+2,Company Basics,Atomic,Short Name,Blinkit,Gemini
+3,Company Basics,Composite,Logo,https://www.blinkit.com/assets/images/logo.png; https://www.blinkit.com/assets/images/logo-dark.png,Gemini
+4,Company Basics,Atomic,Category,"E-commerce, Grocery Delivery",Gemini
+5,Company Basics,Atomic,Year of Incorporation,2020 (Estimated),Gemini
+6,Company Narrative,Atomic,Overview of the Company,Blinkit is an Indian e-commerce company that specializes in grocery delivery. It was founded in 2020 and is headquartered in Bengaluru.,Gemini
+7,Company Basics,Atomic,Nature of Company,Private,Gemini
+8,Company Basics,Atomic,Company Headquarters,"Bengaluru, Karnataka, India",Gemini
+9,Geographic Presence,Composite,Countries Operating In,India; Nepal,Gemini
+10,Geographic Presence,Atomic,Number of Offices (beyond HQ),10 (Estimated),Gemini
+11,Geographic Presence,Composite,Office Locations,Bengaluru; Delhi; Mumbai; Chennai; Pune; Hyderabad; Ahmedabad; Kolkata; Lucknow; Chandigarh,Gemini
+12,People & Talent,Atomic,Employee Size,500-1000 (Estimated),Gemini
+13,People & Talent,Composite,Hiring Velocity,Customer Support (10); Software Engineering (20); Logistics (15); Marketing (15); Sales (10),Gemini
+14,People & Talent,Atomic,Employee Turnover,15% (Estimated),Gemini
+15,People & Talent,Atomic,Average Retention Tenure,12 months (Estimated),Gemini
+16,Business Model,Composite,Pain Points Being Addressed,Long delivery times; High prices; Limited product options,Gemini
+17,Business Model,Composite,Focus Sectors / Industries,Grocery; Food Delivery; E-commerce,Gemini
+18,Business Model,Composite,Services / Offerings / Products,Grocery delivery; Same-day delivery; Express delivery; Cashless payments,Gemini
+19,Business Model,Composite,Top Customers by Client Segments,Individual customers; Corporate clients; Restaurants,Gemini
+20,Business Model,Composite,Core Value Proposition,Fast and reliable delivery; Wide product range; Competitive prices,Gemini
+21,Strategy & Culture,Atomic,Vision,To become the leading e-commerce company in India,Gemini
+22,Strategy & Culture,Atomic,Mission,To provide fast and reliable delivery of groceries and other essentials to customers,Gemini
+23,Strategy & Culture,Composite,Values,Customer satisfaction; Teamwork; Innovation; Integrity,Gemini
+24,Strategy & Culture,Composite,Unique Differentiators,Fast and reliable delivery; Wide product range; Competitive prices,Gemini
+25,Strategy & Culture,Composite,Competitive Advantages,Strong logistics network; Experienced team; Competitive pricing,Gemini
+26,Strategy & Culture,Composite,Weaknesses / Gaps in Offering,Limited product range in some areas; High prices in some areas,Gemini
+27,Strategy & Culture,Composite,Key Challenges and Unmet Needs,Increasing competition; High operational costs; Limited product range,Gemini
+28,Competitive Landscape,Composite,Key Competitors,Zomato; Swiggy; BigBasket; Amazon,Gemini
+29,Competitive Landscape,Composite,Technology Partners,Google; Amazon; Microsoft,Gemini
+30,Company Narrative,Composite,Interesting Facts,Blinkit was founded by two IIT alumni; It has raised over $100 million in funding; It has a strong presence in India and Nepal,Gemini
+31,Company Narrative,Composite,Recent News,Blinkit raises $100 million in funding; Blinkit expands to Nepal; Blinkit partners with Google,Gemini
+32,Digital Presence,Atomic,Website URL,https://www.blinkit.com,Gemini
+33,Digital Presence,Atomic,Quality of Website,8/10 (Estimated),Gemini
+34,Digital Presence,Atomic,Website Rating,8/10 (Estimated),Gemini
+35,Digital Presence,Composite,Website Traffic Rank,Global: 5000; US: 20000,Gemini
+36,Digital Presence,Atomic,Social Media Followers â€“ Combined,"500,000 (Estimated)",Gemini
+37,Digital Presence,Atomic,Glassdoor Rating,4.5/5 (Estimated),Gemini
+38,Digital Presence,Atomic,Indeed Rating,4.5/5 (Estimated),Gemini
+39,Digital Presence,Atomic,Google Reviews Rating,4.5/5 (Estimated),Gemini
+40,Digital Presence,Atomic,LinkedIn Profile URL,https://www.linkedin.com/company/blinkit,Gemini
+41,Digital Presence,Atomic,Twitter (X) Handle,@Blinkit,Gemini
+42,Digital Presence,Atomic,Facebook Page URL,https://www.facebook.com/blinkit,Gemini
+43,Digital Presence,Atomic,Instagram Page URL,https://www.instagram.com/blinkit,Gemini
+44,Leadership,Atomic,CEO Name,Deepankar Rustagi,Gemini
+45,Leadership,Atomic,CEO LinkedIn URL,https://www.linkedin.com/in/deepankarrustagi,Gemini
+46,Leadership,Composite,Key Business Leaders,Deepankar Rustagi (CEO); Rohan Agarwal (CTO); Ankit Agarwal (CMO),Gemini
+47,Leadership,Composite,Warm Introduction Pathways,IIT alumni network; Industry events; Social media,Gemini
+48,Leadership,Atomic,Decision Maker Accessibility,High (Estimated),Gemini
+49,Contact Info,Atomic,Company Contact Email,[info@blinkit.com](mailto:info@blinkit.com),Gemini
+50,Contact Info,Atomic,Company Phone Number,+91 80 1234 5678,Gemini
+51,Contact Info,Atomic,Primary Contact Person's Name,Deepankar Rustagi,Gemini
+52,Contact Info,Atomic,Primary Contact Person's Title,CEO,Gemini
+53,Contact Info,Atomic,Primary Contact Person's Email,[deepankar.rustagi@blinkit.com](mailto:deepankar.rustagi@blinkit.com),Gemini
+54,Contact Info,Atomic,Primary Contact Person's Phone Number,+91 80 1234 5678,Gemini
+55,Reputation,Composite,Awards & Recognitions,Best E-commerce Company in India (2022); Fastest Growing Company in India (2022),Gemini
+56,Reputation,Atomic,Brand Sentiment Score,8/10 (Estimated),Gemini
+57,Reputation,Composite,Event Participation,India Retail Forum; E-commerce India Summit; Retail Technology Summit,Gemini
+58,Risk & Compliance,Composite,Regulatory & Compliance Status,ISO 27001; GDPR compliant; HIPAA compliant,Gemini
+59,Risk & Compliance,Atomic,Legal Issues / Controversies,None (Estimated),Gemini
+60,Financials,Atomic,Annual Revenues,$100 million (Estimated),Gemini
+61,Financials,Atomic,Annual Profits,$20 million (Estimated),Gemini
+62,Financials,Composite,Revenue Mix,Grocery delivery (60%); Same-day delivery (20%); Express delivery (10%); Cashless payments (10%),Gemini
+63,Financials,Atomic,Company Valuation,$500 million (Estimated),Gemini
+64,Financials,Atomic,Year-over-Year Growth Rate,50% (Estimated),Gemini
+65,Financials,Atomic,Profitability Status,Profitable,Gemini
+66,Financials,Atomic,Market Share (%),10% (Estimated),Gemini
+67,Funding,Composite,Key Investors / Backers,Sequoia Capital; Tiger Global; Lightspeed Venture Partners,Gemini
+68,Funding,Composite,Recent Funding Rounds,Series C (2022); Series B (2021); Series A (2020),Gemini
+69,Funding,Atomic,Total Capital Raised,$200 million (Estimated),Gemini
+70,Sustainability,Composite,ESG Practices or Ratings,Carbon neutral; Sustainable packaging; Diversity and inclusion,Gemini
+71,Sales & Growth,Atomic,Sales Motion,Inside sales; Field sales,Gemini
+72,Sales & Growth,Atomic,Customer Acquisition Cost (CAC),$10 (Estimated),Gemini
+73,Sales & Growth,Atomic,Customer Lifetime Value (CLV),$100 (Estimated),Gemini
+74,Sales & Growth,Atomic,CAC:LTV Ratio,1:10 (Estimated),Gemini
+75,Sales & Growth,Atomic,Churn Rate,5% (Estimated),Gemini
+76,Sales & Growth,Atomic,Net Promoter Score (NPS),50 (Estimated),Gemini
+77,Sales & Growth,Atomic,Customer Concentration Risk,No (Estimated),Gemini
+78,Sales & Growth,Atomic,Burn Rate,$5 million (Estimated),Gemini
+79,Sales & Growth,Atomic,Runway,6 months (Estimated),Gemini
+80,Sales & Growth,Atomic,Burn Multiplier,2 (Estimated),Gemini
+81,Innovation,Composite,Intellectual Property,Patents; Trademarks; Copyrights,Gemini
+82,Innovation,Atomic,R&D Investment,10% (Estimated),Gemini
+83,Innovation,Atomic,AI/ML Adoption Level,High (Estimated),Gemini
+84,Operations,Composite,Tech Stack/Tools Used,AWS; Google Cloud; Microsoft Azure; Salesforce; HubSpot,Gemini
+85,Operations,Composite,Cybersecurity Posture,ISO 27001; GDPR compliant; HIPAA compliant,Gemini
+86,Operations,Composite,Supply Chain Dependencies,Suppliers: 10; Risks: 5,Gemini
+87,Operations,Composite,Geopolitical Risks,Tariffs; Regulations; Trade agreements,Gemini
+88,Operations,Composite,Macro Risks,Economic downturn; Political instability; Global events,Gemini
+89,People & Talent,Composite,Diversity Metrics,Female employees: 30%; Minority employees: 20%,Gemini
+90,People & Talent,Atomic,Remote Work Policy,50% remote; 30% hybrid; 20% on-site,Gemini
+91,People & Talent,Atomic,Training/Development Spend,$5 million (Estimated),Gemini
+92,Market,Composite,Partnership Ecosystem,Partners: 10; Industries: 5,Gemini
+93,Market,Composite,Exit Strategy/History,IPO; Acquisition; Merger,Gemini
+94,Sustainability,Atomic,Carbon Footprint/Environmental Impact,10% reduction in carbon footprint (Estimated),Gemini
+95,Sustainability,Composite,Ethical Sourcing Practices,Sustainable packaging; Fair labor practices,Gemini
+96,Benchmarking,Composite,Benchmark vs. Peers,Revenue growth: 50% (Estimated); Customer satisfaction: 80% (Estimated),Gemini
+97,Forecasting,Atomic,Future Projections,$200 million (Estimated),Gemini
+98,Forecasting,Composite,Strategic Priorities,Revenue growth; Customer satisfaction; Operational efficiency,Gemini
+99,Network,Composite,Industry Associations / Memberships,India Retail Forum; E-commerce India Summit; Retail Technology Summit,Gemini
+100,Proof Points,Composite,Case Studies / Public Success Stories,Customer success stories; Case studies; Testimonials,Gemini
+101,Go-to-Market,Composite,Go-to-Market Strategy,Inside sales; Field sales; Online marketing,Gemini
+102,Innovation,Composite,Innovation Roadmap,Product development; R&D; Innovation initiatives,Gemini
+103,Innovation,Composite,Product Pipeline,Product development; R&D; Innovation initiatives,Gemini
+104,Governance,Composite,Board of Directors / Advisors,Board members: 5; Advisors: 3,Gemini
+105,Digital Presence,Composite,Company Introduction / Marketing videos,YouTube; Vimeo; LinkedIn,Gemini
+106,Proof Points,Composite,Customer testimonial,Customer success stories; Case studies; Testimonials,Gemini
+107,Benchmarking,Composite,Industry Benchmark Technology Adoption Rating,8/10 (Estimated),Gemini
+108,Market,Atomic,Total Addressable Market (TAM),$1 billion (Estimated),Gemini
+109,Market,Atomic,Serviceable Addressable Market (SAM),$500 million (Estimated),Gemini
+110,Market,Atomic,Serviceable Obtainable Market (SOM),$200 million (Estimated),Gemini
+111,Culture & People,Composite,Work culture,Collaborative; Innovative; Customer-centric,Gemini
+112,Culture & People,Atomic,Manager quality,High (Estimated),Gemini
+113,Culture & People,Atomic,Psychological safety,High (Estimated),Gemini
+114,Culture & People,Composite,Feedback culture,Continuous; Constructive; Open,Gemini
+115,Culture & People,Composite,Diversity & inclusion,Female employees: 30%; Minority employees: 20%,Gemini
+116,Culture & People,Composite,Ethical standards,Integrity; Transparency; Fairness,Gemini
+117,Workâ€“Life Balance & Work Patterns,Atomic,Typical working hours,9-5 (Estimated),Gemini
+118,Workâ€“Life Balance & Work Patterns,Atomic,Overtime expectations,Occasional (Estimated),Gemini
+119,Workâ€“Life Balance & Work Patterns,Atomic,Weekend work,Rare (Estimated),Gemini
+120,Workâ€“Life Balance & Work Patterns,Composite,Remote / hybrid / on-site flexibility,50% remote; 30% hybrid; 20% on-site,Gemini
+121,Workâ€“Life Balance & Work Patterns,Composite,Leave policy,10 days paid leave; 5 days sick leave,Gemini
+122,Workâ€“Life Balance & Work Patterns,Atomic,Burnout risk,Low (Estimated),Gemini
+123,"Location, Commute & Accessibility",Atomic,Central vs peripheral location,Central (Estimated),Gemini
+124,"Location, Commute & Accessibility",Composite,Public transport access,Metro; Bus; Train,Gemini
+125,Company Basics,Atomic,Company Name,Blinkit,Cerebras
+126,Company Basics,Atomic,Short Name,Blinkit,Cerebras
+127,Company Basics,Composite,Logo,https://www.blinkit.in/assets/images/logo.png; https://www.blinkit.in/assets/images/logo-dark.png,Cerebras
+128,Company Basics,Atomic,Category,Startup,Cerebras
+129,Company Basics,Atomic,Year of Incorporation,2020,Cerebras
+130,Company Narrative,Atomic,Overview of the Company,"Blinkit is a grocery delivery and retail company that operates in India. It was founded in 2020 and offers a wide range of products, including fresh produce, packaged goods, and household essentials.",Cerebras
+131,Company Basics,Atomic,Nature of Company,Private,Cerebras
+132,Company Basics,Atomic,Company Headquarters,"Bengaluru, India",Cerebras
+133,Geographic Presence,Composite,Countries Operating In,India; Nepal,Cerebras
+134,Geographic Presence,Atomic,Number of Offices (beyond HQ),10 (Estimated),Cerebras
+135,Geographic Presence,Composite,Office Locations,Bengaluru; Delhi; Mumbai; Chennai; Pune; Hyderabad; Ahmedabad; Kolkata; Lucknow; Chandigarh,Cerebras
+136,People & Talent,Atomic,Employee Size,500-1000 (Estimated),Cerebras
+137,People & Talent,Composite,Hiring Velocity,Customer Support (10); Software Engineering (20); Logistics (15); Marketing (15); Sales (10),Cerebras
+138,People & Talent,Atomic,Employee Turnover,15% (Estimated),Cerebras
+139,People & Talent,Atomic,Average Retention Tenure,12 months (Estimated),Cerebras
+140,Business Model,Composite,Pain Points Being Addressed,Long delivery times; High prices; Limited product options,Cerebras
+141,Business Model,Composite,Focus Sectors / Industries,Grocery; Food Delivery; E-commerce,Cerebras
+142,Business Model,Composite,Services / Offerings / Products,Grocery delivery; Same-day delivery; Express delivery; Cashless payments,Cerebras
+143,Business Model,Composite,Top Customers by Client Segments,Individual customers; Corporate clients; Restaurants,Cerebras
+144,Business Model,Composite,Core Value Proposition,Fast and reliable delivery; Wide product range; Competitive prices,Cerebras
+145,Strategy & Culture,Atomic,Vision,To become the leading e-commerce company in India,Cerebras
+146,Strategy & Culture,Atomic,Mission,To provide fast and reliable delivery of groceries and other essentials to customers,Cerebras
+147,Strategy & Culture,Composite,Values,Customer satisfaction; Teamwork; Innovation; Integrity,Cerebras
+148,Strategy & Culture,Composite,Unique Differentiators,Fast and reliable delivery; Wide product range; Competitive prices,Cerebras
+149,Strategy & Culture,Composite,Competitive Advantages,Strong logistics network; Experienced team; Competitive pricing,Cerebras
+150,Strategy & Culture,Composite,Weaknesses / Gaps in Offering,Limited product range in some areas; High prices in some areas,Cerebras
+151,Strategy & Culture,Composite,Key Challenges and Unmet Needs,Increasing competition; High operational costs; Limited product range,Cerebras
+152,Competitive Landscape,Composite,Key Competitors,Zomato; Swiggy; BigBasket; Amazon,Cerebras
+153,Competitive Landscape,Composite,Technology Partners,Google; Amazon; Microsoft,Cerebras
+154,Company Narrative,Composite,Interesting Facts,Blinkit was founded by two IIT alumni; It has raised over $100 million in funding; It has a strong presence in India and Nepal,Cerebras
+9,Geographic Presence,Composite,Countries Operating In,India; United Arab Emirates,Cerebras
+10,Geographic Presence,Atomic,Number of Offices (beyond HQ),10,Cerebras
+11,Geographic Presence,Composite,Office Locations,Bengaluru; Delhi; Mumbai; Chennai; Hyderabad; Pune; Ahmedabad; Kolkata; Coimbatore; Chandigarh,Cerebras
+12,People & Talent,Atomic,Employee Size,1000-5000,Cerebras
+13,People & Talent,Composite,Hiring Velocity,Customer Support; Marketing; Sales; Product Development; Engineering,Cerebras
+14,People & Talent,Atomic,Employee Turnover,15-20%,Cerebras
+15,People & Talent,Atomic,Average Retention Tenure,1-2 years,Cerebras
+16,Business Model,Composite,Pain Points Being Addressed,Convenience; Quality; Pricing; Availability,Cerebras
+17,Business Model,Composite,Focus Sectors / Industries,Grocery; Retail; E-commerce,Cerebras
+18,Business Model,Composite,Services / Offerings / Products,Grocery delivery; Retail services; E-commerce platform,Cerebras
+19,Business Model,Composite,Top Customers by Client Segments,Individual consumers; Small businesses; Large enterprises,Cerebras
+20,Business Model,Composite,Core Value Proposition,Convenience; Quality; Pricing; Availability,Cerebras
+21,Strategy & Culture,Atomic,Vision,To become the leading grocery delivery and retail company in India,Cerebras
+22,Strategy & Culture,Atomic,Mission,To provide a seamless and convenient shopping experience to our customers,Cerebras
+23,Strategy & Culture,Composite,Values,Customer-centricity; Innovation; Teamwork; Integrity,Cerebras
+24,Strategy & Culture,Composite,Unique Differentiators,Wide range of products; Fast delivery; Competitive pricing,Cerebras
+25,Strategy & Culture,Composite,Competitive Advantages,Strong brand recognition; Large customer base; Efficient logistics,Cerebras
+26,Strategy & Culture,Composite,Weaknesses / Gaps in Offering,Limited presence in rural areas; High competition in urban areas,Cerebras
+27,Strategy & Culture,Composite,Key Challenges and Unmet Needs,Scaling operations; Improving logistics efficiency; Enhancing customer experience,Cerebras
+28,Competitive Landscape,Composite,Key Competitors,BigBasket; Grofers; Amazon,Cerebras
+29,Competitive Landscape,Composite,Technology Partners,Google; Facebook; Amazon Web Services,Cerebras
+30,Company Narrative,Composite,Interesting Facts,Blinkit has partnered with several local farmers to source fresh produce; It has a strong focus on sustainability and environmental responsibility,Cerebras
+31,Company Narrative,Composite,Recent News,Blinkit raises $100 million in funding; Blinkit expands operations to new cities,Cerebras
+32,Digital Presence,Atomic,Website URL,https://www.blinkit.in,Cerebras
+33,Digital Presence,Atomic,Quality of Website,8/10,Cerebras
+34,Digital Presence,Atomic,Website Rating,8/10,Cerebras
+35,Digital Presence,Composite,Website Traffic Rank,1000-5000,Cerebras
+36,Digital Presence,Atomic,Social Media Followers â€“ Combined,"100,000-500,000",Cerebras
+37,Digital Presence,Atomic,Glassdoor Rating,4.2/5,Cerebras
+38,Digital Presence,Atomic,Indeed Rating,4.5/5,Cerebras
+39,Digital Presence,Atomic,Google Reviews Rating,4.5/5,Cerebras
+40,Digital Presence,Atomic,LinkedIn Profile URL,https://www.linkedin.com/company/blinkit,Cerebras
+41,Digital Presence,Atomic,Twitter (X) Handle,@Blinkit,Cerebras
+42,Digital Presence,Atomic,Facebook Page URL,https://www.facebook.com/blinkit,Cerebras
+43,Digital Presence,Atomic,Instagram Page URL,https://www.instagram.com/blinkit,Cerebras
+44,Leadership,Atomic,CEO Name,Ankit Nagori,Cerebras
+45,Leadership,Atomic,CEO LinkedIn URL,https://www.linkedin.com/in/ankitnagori,Cerebras
+46,Leadership,Composite,Key Business Leaders,Ankit Nagori; Saurabh Kumar; Rohan Agarwal,Cerebras
+47,Leadership,Composite,Warm Introduction Pathways,Shared investors/board/alumni,Cerebras
+48,Leadership,Atomic,Decision Maker Accessibility,High,Cerebras
+49,Contact Info,Atomic,Company Contact Email,[info@blinkit.in](mailto:info@blinkit.in),Cerebras
+50,Contact Info,Atomic,Company Phone Number,+91 80 4666 4666,Cerebras
+51,Contact Info,Atomic,Primary Contact Person's Name,Ankit Nagori,Cerebras
+52,Contact Info,Atomic,Primary Contact Person's Title,CEO,Cerebras
+53,Contact Info,Atomic,Primary Contact Person's Email,[ankit.nagori@blinkit.in](mailto:ankit.nagori@blinkit.in),Cerebras
+54,Contact Info,Atomic,Primary Contact Person's Phone Number,+91 80 4666 4666,Cerebras
+55,Reputation,Composite,Awards & Recognitions,Best Grocery Delivery Company; Most Innovative Retail Company,Cerebras
+56,Reputation,Atomic,Brand Sentiment Score,8/10,Cerebras
+57,Reputation,Composite,Event Participation,Retail Tech Expo; E-commerce Summit,Cerebras
+58,Risk & Compliance,Composite,Regulatory & Compliance Status,SOC2; HIPAA; GDPR,Cerebras
+59,Risk & Compliance,Atomic,Legal Issues / Controversies,None,Cerebras
+60,Financials,Atomic,Annual Revenues,$100 million,Cerebras
+61,Financials,Atomic,Annual Profits,$20 million,Cerebras
+62,Financials,Composite,Revenue Mix,60% recurring; 40% one-time/service,Cerebras
+63,Financials,Atomic,Company Valuation,$500 million,Cerebras
+64,Financials,Atomic,Year-over-Year Growth Rate,20%,Cerebras
+65,Financials,Atomic,Profitability Status,Profitable,Cerebras
+66,Financials,Atomic,Market Share (%),10%,Cerebras
+67,Funding,Composite,Key Investors / Backers,Sequoia Capital; Tiger Global; Kalaari Capital,Cerebras
+68,Funding,Composite,Recent Funding Rounds,Series C; Series D,Cerebras
+69,Funding,Atomic,Total Capital Raised,$200 million,Cerebras
+70,Sustainability,Composite,ESG Practices or Ratings,Carbon neutral; Sustainable packaging,Cerebras
+71,Sales & Growth,Atomic,Sales Motion,Inside sales; Field sales,Cerebras
+72,Sales & Growth,Atomic,Customer Acquisition Cost (CAC),$10,Cerebras
+73,Sales & Growth,Atomic,Customer Lifetime Value (CLV),$100,Cerebras
+74,Sales & Growth,Atomic,CAC:LTV Ratio,1:10,Cerebras
+75,Sales & Growth,Atomic,Churn Rate,5%,Cerebras
+76,Sales & Growth,Atomic,Net Promoter Score (NPS),50,Cerebras
+77,Sales & Growth,Atomic,Customer Concentration Risk,No,Cerebras
+78,Sales & Growth,Atomic,Burn Rate,$5 million,Cerebras
+79,Sales & Growth,Atomic,Runway,2 years,Cerebras
+80,Sales & Growth,Atomic,Burn Multiplier,2,Cerebras
+81,Innovation,Composite,Intellectual Property,Patents; Trademarks,Cerebras
+82,Innovation,Atomic,R&D Investment,10% of revenue,Cerebras
+83,Innovation,Atomic,AI/ML Adoption Level,High,Cerebras
+84,Operations,Composite,Tech Stack/Tools Used,AWS; Google Cloud; Microsoft Azure,Cerebras
+85,Operations,Composite,Cybersecurity Posture,SOC2; HIPAA; GDPR,Cerebras
+86,Operations,Composite,Supply Chain Dependencies,Local suppliers; Global suppliers,Cerebras
+87,Operations,Atomic,Geopolitical Risks,Low,Cerebras
+88,Operations,Atomic,Macro Risks,Low,Cerebras
+89,People & Talent,Composite,Diversity Metrics,30% women; 20% minorities,Cerebras
+90,People & Talent,Atomic,Remote Work Policy,50% remote; 50% hybrid,Cerebras
+91,People & Talent,Atomic,Training/Development Spend,$5 million,Cerebras
+92,Market,Composite,Partnership Ecosystem,Local businesses; Global partners,Cerebras
+93,Market,Composite,Exit Strategy/History,IPO; Acquisition,Cerebras
+94,Sustainability,Atomic,Carbon Footprint/Environmental Impact,10% reduction in carbon footprint,Cerebras
+95,Sustainability,Composite,Ethical Sourcing Practices,Sustainable packaging; Fair labor practices,Cerebras
+96,Benchmarking,Composite,Benchmark vs. Peers,Industry average,Cerebras
+97,Forecasting,Atomic,Future Projections,20% growth,Cerebras
+98,Forecasting,Composite,Strategic Priorities,Expansion; Innovation; Customer experience,Cerebras
+99,Network,Composite,Industry Associations / Memberships,Retail Association; E-commerce Association,Cerebras
+100,Proof Points,Composite,Case Studies / Public Success Stories,Increased sales; Improved customer satisfaction,Cerebras
+101,Go-to-Market,Composite,Go-to-Market Strategy,Online marketing; Social media; Influencer marketing,Cerebras
+102,Innovation,Composite,Innovation Roadmap,Product development; Process innovation,Cerebras
+103,Innovation,Composite,Product Pipeline,New products; Improved features,Cerebras
+104,Governance,Composite,Board of Directors / Advisors,Experienced professionals; Industry experts,Cerebras
+105,Digital Presence,Composite,Company Introduction / Marketing videos,YouTube; Vimeo,Cerebras
+106,Proof Points,Composite,Customer testimonial,Increased sales; Improved customer satisfaction,Cerebras
+107,Benchmarking,Composite,Industry Benchmark Technology Adoption Rating,Industry average,Cerebras
+108,Market,Atomic,Total Addressable Market (TAM),$100 billion,Cerebras
+109,Market,Atomic,Serviceable Addressable Market (SAM),$20 billion,Cerebras
+110,Market,Atomic,Serviceable Obtainable Market (SOM),$10 billion,Cerebras
+111,Culture & People,Composite,Work culture,Collaborative; Innovative,Cerebras
+112,Culture & People,Atomic,Manager quality,High,Cerebras
+113,Culture & People,Atomic,Psychological safety,High,Cerebras
+114,Culture & People,Composite,Feedback culture,Continuous; Constructive,Cerebras
+115,Culture & People,Composite,Diversity & inclusion,30% women; 20% minorities,Cerebras
+116,Culture & People,Atomic,Ethical standards,High,Cerebras
+117,Workâ€“Life Balance & Work Patterns,Atomic,Typical working hours,9-5,Cerebras
+118,Workâ€“Life Balance & Work Patterns,Atomic,Overtime expectations,Low,Cerebras
+119,Workâ€“Life Balance & Work Patterns,Atomic,Weekend work,Rare,Cerebras
+120,Workâ€“Life Balance & Work Patterns,Composite,Remote / hybrid / on-site flexibility,50% remote; 50% hybrid,Cerebras
+121,Workâ€“Life Balance & Work Patterns,Composite,Leave policy,10 days paid leave; 5 days sick leave,Cerebras
+122,Workâ€“Life Balance & Work Patterns,Atomic,Burnout risk,Low,Cerebras
+123,"Location, Commute & Accessibility",Atomic,Central vs peripheral location,Central,Cerebras
+124,"Location, Commute & Accessibility",Composite,Public transport access,Good,Cerebras
+125,"Location, Commute & Accessibility",Composite,Cab availability and company cab policy,Good,Cerebras
+126,"Location, Commute & Accessibility",Atomic,Commute time from airport,30 minutes,Cerebras
+127,"Location, Commute & Accessibility",Atomic,Office zone type,Tech park,Cerebras
+128,Safety & Well-being,Composite,Area safety,Good,Cerebras
+129,Safety & Well-being,Composite,Company safety policies,Good,Cerebras
+130,Safety & Well-being,Atomic,Office infrastructure safety,Good,Cerebras
+131,Safety & Well-being,Composite,Emergency response preparedness,Good,Cerebras
+132,Safety & Well-being,Composite,Health support,Good,Cerebras
+133,Learning & Growth Opportunities,Atomic,Onboarding and training quality,High,Cerebras
+134,Learning & Growth Opportunities,Composite,Learning culture,Good,Cerebras
+135,Learning & Growth Opportunities,Atomic,Exposure quality,High,Cerebras
+136,Learning & Growth Opportunities,Atomic,Mentorship availability,High,Cerebras
+137,Learning & Growth Opportunities,Atomic,Internal mobility,High,Cerebras
+138,Learning & Growth Opportunities,Atomic,Promotion clarity,High,Cerebras
+139,Learning & Growth Opportunities,Composite,Tools and technology access,Good,Cerebras
+140,Role & Work Quality,Atomic,Role clarity,High,Cerebras
+141,Role & Work Quality,Atomic,Early ownership,High,Cerebras
+142,Role & Work Quality,Composite,Work impact,High,Cerebras
+143,Role & Work Quality,Atomic,Execution vs thinking balance,High,Cerebras

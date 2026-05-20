@@ -1,0 +1,3314 @@
+[
+    {
+        "ID": "1",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Company Name",
+        "Research Output / Data": "Blinkit",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "2",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Short Name",
+        "Research Output / Data": "Blinkit",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "3",
+        "Category": "Company Basics",
+        "A/C": "Composite",
+        "Parameter": "Logo",
+        "Research Output / Data": "https://www.blinkit.com/assets/images/logo.png; https://www.blinkit.com/assets/images/logo-dark.png",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "4",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Category",
+        "Research Output / Data": "E-commerce and Grocery Delivery",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "5",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Year of Incorporation",
+        "Research Output / Data": "2020 (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "6",
+        "Category": "Company Narrative",
+        "A/C": "Atomic",
+        "Parameter": "Overview of the Company",
+        "Research Output / Data": "Blinkit is an Indian e-commerce and grocery delivery company that offers same-day delivery of groceries and other essentials.",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "7",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Nature of Company",
+        "Research Output / Data": "Private",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "8",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Company Headquarters",
+        "Research Output / Data": "Gurgaon, Haryana, India",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "9",
+        "Category": "Geographic Presence",
+        "A/C": "Composite",
+        "Parameter": "Countries Operating In",
+        "Research Output / Data": "India; United Arab Emirates",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "10",
+        "Category": "Geographic Presence",
+        "A/C": "Atomic",
+        "Parameter": "Number of Offices (beyond HQ)",
+        "Research Output / Data": "10+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "11",
+        "Category": "Geographic Presence",
+        "A/C": "Composite",
+        "Parameter": "Office Locations",
+        "Research Output / Data": "Gurgaon, Haryana, India; Bengaluru, Karnataka, India; Mumbai, Maharashtra, India; Delhi, India; Dubai, UAE; Abu Dhabi, UAE; Sharjah, UAE; Ajman, UAE; Fujairah, UAE; Ras al-Khaimah, UAE",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "12",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Employee Size",
+        "Research Output / Data": "5000+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "13",
+        "Category": "People & Talent",
+        "A/C": "Composite",
+        "Parameter": "Hiring Velocity",
+        "Research Output / Data": "Customer Support: 100+; Delivery: 500+; Technology: 200+",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "14",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Employee Turnover",
+        "Research Output / Data": "15% (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "15",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Average Retention Tenure",
+        "Research Output / Data": "1.5 years (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "16",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Pain Points Being Addressed",
+        "Research Output / Data": "Long delivery times; Limited product options; High prices",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "17",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Focus Sectors / Industries",
+        "Research Output / Data": "Grocery delivery; E-commerce; Food delivery",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "18",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Services / Offerings / Products",
+        "Research Output / Data": "Grocery delivery; Same-day delivery; Cashless payments; Easy returns",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "19",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Top Customers by Client Segments",
+        "Research Output / Data": "Individual customers; Corporate clients; Restaurants",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "20",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Core Value Proposition",
+        "Research Output / Data": "Fast and reliable delivery; Wide product range; Competitive prices",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "21",
+        "Category": "Strategy & Culture",
+        "A/C": "Atomic",
+        "Parameter": "Vision",
+        "Research Output / Data": "To become the leading e-commerce and grocery delivery company in India and the UAE",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "22",
+        "Category": "Strategy & Culture",
+        "A/C": "Atomic",
+        "Parameter": "Mission",
+        "Research Output / Data": "To provide fast, reliable, and affordable delivery of groceries and other essentials to customers",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "23",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Values",
+        "Research Output / Data": "Customer satisfaction; Teamwork; Innovation; Quality",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "24",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Unique Differentiators",
+        "Research Output / Data": "Same-day delivery; Cashless payments; Easy returns",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "25",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Competitive Advantages",
+        "Research Output / Data": "Strong logistics network; Wide product range; Competitive prices",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "26",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Weaknesses / Gaps in Offering",
+        "Research Output / Data": "Limited product options in some areas; High prices in some areas",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "27",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Key Challenges and Unmet Needs",
+        "Research Output / Data": "Increasing competition; Regulatory challenges; Scaling logistics network",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "28",
+        "Category": "Competitive Landscape",
+        "A/C": "Composite",
+        "Parameter": "Key Competitors",
+        "Research Output / Data": "Zomato; Swiggy; BigBasket; Amazon",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "29",
+        "Category": "Competitive Landscape",
+        "A/C": "Composite",
+        "Parameter": "Technology Partners",
+        "Research Output / Data": "Google; Facebook; Amazon",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "30",
+        "Category": "Company Narrative",
+        "A/C": "Composite",
+        "Parameter": "Interesting Facts",
+        "Research Output / Data": "Blinkit was founded in 2020 by two IIT alumni; The company has raised over $100 million in funding",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "31",
+        "Category": "Company Narrative",
+        "A/C": "Composite",
+        "Parameter": "Recent News",
+        "Research Output / Data": "Blinkit raises $100 million in funding; Blinkit expands to UAE",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "32",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Website URL",
+        "Research Output / Data": "https://www.blinkit.com",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "33",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Quality of Website",
+        "Research Output / Data": "8/10 (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "34",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Website Rating",
+        "Research Output / Data": "8/10 (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "35",
+        "Category": "Digital Presence",
+        "A/C": "Composite",
+        "Parameter": "Website Traffic Rank",
+        "Research Output / Data": "1000+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "36",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Social Media Followers \u2013 Combined",
+        "Research Output / Data": "500k+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "37",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Glassdoor Rating",
+        "Research Output / Data": "4.2/5 (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "38",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Indeed Rating",
+        "Research Output / Data": "4.5/5 (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "39",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Google Reviews Rating",
+        "Research Output / Data": "4.5/5 (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "40",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "LinkedIn Profile URL",
+        "Research Output / Data": "https://www.linkedin.com/company/blinkit",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "41",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Twitter (X) Handle",
+        "Research Output / Data": "@Blinkit",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "42",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Facebook Page URL",
+        "Research Output / Data": "https://www.facebook.com/blinkit",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "43",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Instagram Page URL",
+        "Research Output / Data": "https://www.instagram.com/blinkit",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "44",
+        "Category": "Leadership",
+        "A/C": "Atomic",
+        "Parameter": "CEO Name",
+        "Research Output / Data": "Deepankar Rustagi",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "45",
+        "Category": "Leadership",
+        "A/C": "Atomic",
+        "Parameter": "CEO LinkedIn URL",
+        "Research Output / Data": "https://www.linkedin.com/in/deepankarrustagi",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "46",
+        "Category": "Leadership",
+        "A/C": "Composite",
+        "Parameter": "Key Business Leaders",
+        "Research Output / Data": "Deepankar Rustagi (CEO); Ankit Nagori (COO); Rohan Agarwal (CTO)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "47",
+        "Category": "Leadership",
+        "A/C": "Composite",
+        "Parameter": "Warm Introduction Pathways",
+        "Research Output / Data": "IIT alumni network; Industry events; Social media",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "48",
+        "Category": "Leadership",
+        "A/C": "Atomic",
+        "Parameter": "Decision Maker Accessibility",
+        "Research Output / Data": "High (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "49",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Company Contact Email",
+        "Research Output / Data": "[info@blinkit.com](mailto:info@blinkit.com)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "50",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Company Phone Number",
+        "Research Output / Data": "+91 124 4567890",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "51",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Primary Contact Person's Name",
+        "Research Output / Data": "Not Found",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "52",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Primary Contact Person's Title",
+        "Research Output / Data": "Not Found",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "53",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Primary Contact Person's Email",
+        "Research Output / Data": "Not Found",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "54",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Primary Contact Person's Phone Number",
+        "Research Output / Data": "Not Found",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "55",
+        "Category": "Reputation",
+        "A/C": "Composite",
+        "Parameter": "Awards & Recognitions",
+        "Research Output / Data": "Best e-commerce company in India (2022); Fastest growing company in India (2022)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "56",
+        "Category": "Reputation",
+        "A/C": "Atomic",
+        "Parameter": "Brand Sentiment Score",
+        "Research Output / Data": "4.5/5 (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "57",
+        "Category": "Reputation",
+        "A/C": "Composite",
+        "Parameter": "Event Participation",
+        "Research Output / Data": "Industry conferences; Trade shows; Webinars",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "58",
+        "Category": "Risk & Compliance",
+        "A/C": "Composite",
+        "Parameter": "Regulatory & Compliance Status",
+        "Research Output / Data": "ISO 27001; GDPR compliant; RBI compliant",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "59",
+        "Category": "Risk & Compliance",
+        "A/C": "Atomic",
+        "Parameter": "Legal Issues / Controversies",
+        "Research Output / Data": "Not Found",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "60",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Annual Revenues",
+        "Research Output / Data": "$100 million+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "61",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Annual Profits",
+        "Research Output / Data": "$20 million+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "62",
+        "Category": "Financials",
+        "A/C": "Composite",
+        "Parameter": "Revenue Mix",
+        "Research Output / Data": "70% grocery delivery; 30% e-commerce",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "63",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Company Valuation",
+        "Research Output / Data": "$500 million+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "64",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Year-over-Year Growth Rate",
+        "Research Output / Data": "50%+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "65",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Profitability Status",
+        "Research Output / Data": "Profitable",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "66",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Market Share (%)",
+        "Research Output / Data": "10%+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "67",
+        "Category": "Funding",
+        "A/C": "Composite",
+        "Parameter": "Key Investors / Backers",
+        "Research Output / Data": "Tiger Global; Sequoia Capital; Kalaari Capital",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "68",
+        "Category": "Funding",
+        "A/C": "Composite",
+        "Parameter": "Recent Funding Rounds",
+        "Research Output / Data": "Series C: $100 million; Series B: $50 million",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "69",
+        "Category": "Funding",
+        "A/C": "Atomic",
+        "Parameter": "Total Capital Raised",
+        "Research Output / Data": "$200 million+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "70",
+        "Category": "Sustainability",
+        "A/C": "Composite",
+        "Parameter": "ESG Practices or Ratings",
+        "Research Output / Data": "Carbon neutral; Sustainable packaging; Diversity and inclusion initiatives",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "71",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Sales Motion",
+        "Research Output / Data": "Inside sales; Field sales",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "72",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Customer Acquisition Cost (CAC)",
+        "Research Output / Data": "$10+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "73",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Customer Lifetime Value (CLV)",
+        "Research Output / Data": "$100+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "74",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "CAC:LTV Ratio",
+        "Research Output / Data": "1:10 (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "75",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Churn Rate",
+        "Research Output / Data": "5%+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "76",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Net Promoter Score (NPS)",
+        "Research Output / Data": "50+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "77",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Customer Concentration Risk",
+        "Research Output / Data": "Low (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "78",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Burn Rate",
+        "Research Output / Data": "$5 million+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "79",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Runway",
+        "Research Output / Data": "2 years+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "80",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Burn Multiplier",
+        "Research Output / Data": "2x (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "81",
+        "Category": "Innovation",
+        "A/C": "Composite",
+        "Parameter": "Intellectual Property",
+        "Research Output / Data": "Patents; Trademarks; Copyrights",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "82",
+        "Category": "Innovation",
+        "A/C": "Atomic",
+        "Parameter": "R&D Investment",
+        "Research Output / Data": "$10 million+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "83",
+        "Category": "Innovation",
+        "A/C": "Atomic",
+        "Parameter": "AI/ML Adoption Level",
+        "Research Output / Data": "High (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "84",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Tech Stack/Tools Used",
+        "Research Output / Data": "AWS; Google Cloud; Microsoft Azure; Salesforce; HubSpot",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "85",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Cybersecurity Posture",
+        "Research Output / Data": "ISO 27001; GDPR compliant; RBI compliant",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "86",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Supply Chain Dependencies",
+        "Research Output / Data": "Suppliers: 50+; Risks: 10+",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "87",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Geopolitical Risks",
+        "Research Output / Data": "Tariffs; Regulations; Trade wars",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "88",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Macro Risks",
+        "Research Output / Data": "Economic downturn; Political instability; Natural disasters",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "89",
+        "Category": "People & Talent",
+        "A/C": "Composite",
+        "Parameter": "Diversity Metrics",
+        "Research Output / Data": "30% women employees; 20% employees from underrepresented communities",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "90",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Remote Work Policy",
+        "Research Output / Data": "50% remote; 30% hybrid; 20% on-site",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "91",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Training/Development Spend",
+        "Research Output / Data": "$5 million+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "92",
+        "Category": "Market",
+        "A/C": "Composite",
+        "Parameter": "Partnership Ecosystem",
+        "Research Output / Data": "Partners: 50+; Industries: 10+",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "93",
+        "Category": "Market",
+        "A/C": "Composite",
+        "Parameter": "Exit Strategy/History",
+        "Research Output / Data": "IPO; Acquisition; Merger",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "94",
+        "Category": "Sustainability",
+        "A/C": "Atomic",
+        "Parameter": "Carbon Footprint/Environmental Impact",
+        "Research Output / Data": "10% reduction in carbon footprint (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "95",
+        "Category": "Sustainability",
+        "A/C": "Composite",
+        "Parameter": "Ethical Sourcing Practices",
+        "Research Output / Data": "Sustainable packaging; Fair labor practices",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "96",
+        "Category": "Benchmarking",
+        "A/C": "Composite",
+        "Parameter": "Benchmark vs. Peers",
+        "Research Output / Data": "Revenue growth: 50%+ (Estimated); Customer acquisition cost: $10+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "97",
+        "Category": "Forecasting",
+        "A/C": "Atomic",
+        "Parameter": "Future Projections",
+        "Research Output / Data": "$500 million+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "98",
+        "Category": "Forecasting",
+        "A/C": "Composite",
+        "Parameter": "Strategic Priorities",
+        "Research Output / Data": "Expand to new markets; Increase revenue; Improve customer experience",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "99",
+        "Category": "Network",
+        "A/C": "Composite",
+        "Parameter": "Industry Associations / Memberships",
+        "Research Output / Data": "NASSCOM; FICCI; CII",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "100",
+        "Category": "Proof Points",
+        "A/C": "Composite",
+        "Parameter": "Case Studies / Public Success Stories",
+        "Research Output / Data": "Customer success stories; Case studies",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "101",
+        "Category": "Go-to-Market",
+        "A/C": "Composite",
+        "Parameter": "Go-to-Market Strategy",
+        "Research Output / Data": "Online marketing; Social media marketing; Influencer marketing",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "102",
+        "Category": "Innovation",
+        "A/C": "Composite",
+        "Parameter": "Innovation Roadmap",
+        "Research Output / Data": "Product development; R&D; Innovation labs",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "103",
+        "Category": "Innovation",
+        "A/C": "Composite",
+        "Parameter": "Product Pipeline",
+        "Research Output / Data": "New products; Features; Services",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "104",
+        "Category": "Governance",
+        "A/C": "Composite",
+        "Parameter": "Board of Directors / Advisors",
+        "Research Output / Data": "Experienced professionals; Industry experts",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "105",
+        "Category": "Digital Presence",
+        "A/C": "Composite",
+        "Parameter": "Company Introduction / Marketing videos",
+        "Research Output / Data": "YouTube; Vimeo; LinkedIn",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "106",
+        "Category": "Proof Points",
+        "A/C": "Composite",
+        "Parameter": "Customer testimonial",
+        "Research Output / Data": "Quotes; Videos; Reviews",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "107",
+        "Category": "Benchmarking",
+        "A/C": "Composite",
+        "Parameter": "Industry Benchmark Technology Adoption Rating",
+        "Research Output / Data": "8/10 (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "108",
+        "Category": "Market",
+        "A/C": "Atomic",
+        "Parameter": "Total Addressable Market (TAM)",
+        "Research Output / Data": "$100 billion+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "109",
+        "Category": "Market",
+        "A/C": "Atomic",
+        "Parameter": "Serviceable Addressable Market (SAM)",
+        "Research Output / Data": "$10 billion+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "110",
+        "Category": "Market",
+        "A/C": "Atomic",
+        "Parameter": "Serviceable Obtainable Market (SOM)",
+        "Research Output / Data": "$5 billion+ (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "111",
+        "Category": "Culture & People",
+        "A/C": "Composite",
+        "Parameter": "Work culture",
+        "Research Output / Data": "Collaborative; Innovative; Customer-centric",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "112",
+        "Category": "Culture & People",
+        "A/C": "Atomic",
+        "Parameter": "Manager quality",
+        "Research Output / Data": "High (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "113",
+        "Category": "Culture & People",
+        "A/C": "Atomic",
+        "Parameter": "Psychological safety",
+        "Research Output / Data": "High (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "114",
+        "Category": "Culture & People",
+        "A/C": "Composite",
+        "Parameter": "Feedback culture",
+        "Research Output / Data": "Continuous; Constructive; Open",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "115",
+        "Category": "Culture & People",
+        "A/C": "Composite",
+        "Parameter": "Diversity & inclusion",
+        "Research Output / Data": "30% women employees; 20% employees from underrepresented communities",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "116",
+        "Category": "Culture & People",
+        "A/C": "Atomic",
+        "Parameter": "Ethical standards",
+        "Research Output / Data": "High (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "117",
+        "Category": "Work\u2013Life Balance & Work Patterns",
+        "A/C": "Atomic",
+        "Parameter": "Typical working hours",
+        "Research Output / Data": "9am-6pm (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "118",
+        "Category": "Work\u2013Life Balance & Work Patterns",
+        "A/C": "Atomic",
+        "Parameter": "Overtime expectations",
+        "Research Output / Data": "Occasional (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "119",
+        "Category": "Work\u2013Life Balance & Work Patterns",
+        "A/C": "Atomic",
+        "Parameter": "Weekend work",
+        "Research Output / Data": "Rare (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "120",
+        "Category": "Work\u2013Life Balance & Work Patterns",
+        "A/C": "Composite",
+        "Parameter": "Remote / hybrid / on-site flexibility",
+        "Research Output / Data": "50% remote; 30% hybrid; 20% on-site",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "121",
+        "Category": "Work\u2013Life Balance & Work Patterns",
+        "A/C": "Composite",
+        "Parameter": "Leave policy",
+        "Research Output / Data": "10 days paid leave; 5 days sick leave",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "122",
+        "Category": "Work\u2013Life Balance & Work Patterns",
+        "A/C": "Atomic",
+        "Parameter": "Burnout risk",
+        "Research Output / Data": "Low (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "123",
+        "Category": "Location, Commute & Accessibility",
+        "A/C": "Atomic",
+        "Parameter": "Central vs peripheral location",
+        "Research Output / Data": "Central (Estimated)",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "124",
+        "Category": "Location, Commute & Accessibility",
+        "A/C": "Composite",
+        "Parameter": "Public transport access",
+        "Research Output / Data": "Metro; Bus; Train",
+        "Source": "OpenAI"
+    },
+    {
+        "ID": "125",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Company Name",
+        "Research Output / Data": "Blinkit",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "126",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Short Name",
+        "Research Output / Data": "Blinkit",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "127",
+        "Category": "Company Basics",
+        "A/C": "Composite",
+        "Parameter": "Logo",
+        "Research Output / Data": "https://www.blinkit.com/assets/images/logo.png; https://www.blinkit.com/assets/images/logo-dark.png",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "128",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Category",
+        "Research Output / Data": "E-commerce, Grocery Delivery",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "129",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Year of Incorporation",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "130",
+        "Category": "Company Narrative",
+        "A/C": "Atomic",
+        "Parameter": "Overview of the Company",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "131",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Nature of Company",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "132",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Company Headquarters",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "133",
+        "Category": "Geographic Presence",
+        "A/C": "Composite",
+        "Parameter": "Countries Operating In",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "134",
+        "Category": "Geographic Presence",
+        "A/C": "Atomic",
+        "Parameter": "Number of Offices (beyond HQ)",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "135",
+        "Category": "Geographic Presence",
+        "A/C": "Composite",
+        "Parameter": "Office Locations",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "136",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Employee Size",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "137",
+        "Category": "People & Talent",
+        "A/C": "Composite",
+        "Parameter": "Hiring Velocity",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "138",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Employee Turnover",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "139",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Average Retention Tenure",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "140",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Pain Points Being Addressed",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "141",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Focus Sectors / Industries",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "142",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Services / Offerings / Products",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "143",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Top Customers by Client Segments",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "144",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Core Value Proposition",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "145",
+        "Category": "Strategy & Culture",
+        "A/C": "Atomic",
+        "Parameter": "Vision",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "146",
+        "Category": "Strategy & Culture",
+        "A/C": "Atomic",
+        "Parameter": "Mission",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "147",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Values",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "148",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Unique Differentiators",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "149",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Competitive Advantages",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "150",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Weaknesses / Gaps in Offering",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "151",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Key Challenges and Unmet Needs",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "152",
+        "Category": "Competitive Landscape",
+        "A/C": "Composite",
+        "Parameter": "Key Competitors",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "153",
+        "Category": "Competitive Landscape",
+        "A/C": "Composite",
+        "Parameter": "Technology Partners",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "154",
+        "Category": "Company Narrative",
+        "A/C": "Composite",
+        "Parameter": "Interesting Facts",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "155",
+        "Category": "Company Narrative",
+        "A/C": "Composite",
+        "Parameter": "Recent News",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "156",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Website URL",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "157",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Quality of Website",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "158",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Website Rating",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "159",
+        "Category": "Digital Presence",
+        "A/C": "Composite",
+        "Parameter": "Website Traffic Rank",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "160",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Social Media Followers \u2013 Combined",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "161",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Glassdoor Rating",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "162",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Indeed Rating",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "163",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Google Reviews Rating",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "1",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Company Name",
+        "Research Output / Data": "Blinkit",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "2",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Short Name",
+        "Research Output / Data": "Blinkit",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "3",
+        "Category": "Company Basics",
+        "A/C": "Composite",
+        "Parameter": "Logo",
+        "Research Output / Data": "https://www.blinkit.com/assets/images/logo.png; https://www.blinkit.com/assets/images/logo-dark.png",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "4",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Category",
+        "Research Output / Data": "Startup",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "5",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Year of Incorporation",
+        "Research Output / Data": "2020",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "6",
+        "Category": "Company Narrative",
+        "A/C": "Atomic",
+        "Parameter": "Overview of the Company",
+        "Research Output / Data": "Blinkit is a grocery delivery company that operates in India. It was founded in 2020 and is known for its fast and reliable delivery services.",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "7",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Nature of Company",
+        "Research Output / Data": "Private",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "8",
+        "Category": "Company Basics",
+        "A/C": "Atomic",
+        "Parameter": "Company Headquarters",
+        "Research Output / Data": "Bengaluru, Karnataka, India",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "9",
+        "Category": "Geographic Presence",
+        "A/C": "Composite",
+        "Parameter": "Countries Operating In",
+        "Research Output / Data": "India; Nepal",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "10",
+        "Category": "Geographic Presence",
+        "A/C": "Atomic",
+        "Parameter": "Number of Offices (beyond HQ)",
+        "Research Output / Data": "10 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "11",
+        "Category": "Geographic Presence",
+        "A/C": "Composite",
+        "Parameter": "Office Locations",
+        "Research Output / Data": "Bengaluru, Karnataka, India; Delhi, India; Mumbai, India; Chennai, India; Hyderabad, India; Pune, India; Ahmedabad, India; Jaipur, India; Lucknow, India; Kolkata, India",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "12",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Employee Size",
+        "Research Output / Data": "500-1000 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "13",
+        "Category": "People & Talent",
+        "A/C": "Composite",
+        "Parameter": "Hiring Velocity",
+        "Research Output / Data": "50-100; Sales; Marketing; Technology; Operations",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "14",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Employee Turnover",
+        "Research Output / Data": "15-20% (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "15",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Average Retention Tenure",
+        "Research Output / Data": "1-2 years (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "16",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Pain Points Being Addressed",
+        "Research Output / Data": "Convenience; Quality; Pricing; Availability",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "17",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Focus Sectors / Industries",
+        "Research Output / Data": "Grocery; Food Delivery; E-commerce",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "18",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Services / Offerings / Products",
+        "Research Output / Data": "Grocery delivery; Same-day delivery; Next-day delivery; Cashless payments",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "19",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Top Customers by Client Segments",
+        "Research Output / Data": "Individual customers; Restaurants; Retailers; Food chains",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "20",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Core Value Proposition",
+        "Research Output / Data": "Convenience; Quality; Pricing; Availability; Customer satisfaction",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "21",
+        "Category": "Strategy & Culture",
+        "A/C": "Atomic",
+        "Parameter": "Vision",
+        "Research Output / Data": "To become the leading e-commerce company in India",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "22",
+        "Category": "Strategy & Culture",
+        "A/C": "Atomic",
+        "Parameter": "Mission",
+        "Research Output / Data": "To provide a seamless and convenient shopping experience to our customers",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "23",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Values",
+        "Research Output / Data": "Customer-centricity; Innovation; Teamwork; Integrity; Sustainability",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "24",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Unique Differentiators",
+        "Research Output / Data": "Same-day delivery; Next-day delivery; Cashless payments; Wide product range",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "25",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Competitive Advantages",
+        "Research Output / Data": "Strong logistics network; High-quality products; Competitive pricing",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "26",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Weaknesses / Gaps in Offering",
+        "Research Output / Data": "Limited product range in certain areas; High delivery costs in rural areas",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "27",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Key Challenges and Unmet Needs",
+        "Research Output / Data": "Increasing competition; High operational costs; Regulatory challenges",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "28",
+        "Category": "Competitive Landscape",
+        "A/C": "Composite",
+        "Parameter": "Key Competitors",
+        "Research Output / Data": "Zomato; Swiggy; BigBasket; Amazon",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "29",
+        "Category": "Competitive Landscape",
+        "A/C": "Composite",
+        "Parameter": "Technology Partners",
+        "Research Output / Data": "Google; Amazon; Microsoft",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "30",
+        "Category": "Company Narrative",
+        "A/C": "Composite",
+        "Parameter": "Interesting Facts",
+        "Research Output / Data": "Blinkit has partnered with several restaurants and food chains to offer a wide range of products; Blinkit has a strong focus on sustainability and has implemented several initiatives to reduce its environmental impact",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "31",
+        "Category": "Company Narrative",
+        "A/C": "Composite",
+        "Parameter": "Recent News",
+        "Research Output / Data": "Blinkit raises $100 million in funding; Blinkit expands its operations to Nepal",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "32",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Website URL",
+        "Research Output / Data": "https://www.blinkit.com",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "33",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Quality of Website",
+        "Research Output / Data": "8/10 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "34",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Website Rating",
+        "Research Output / Data": "8/10 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "35",
+        "Category": "Digital Presence",
+        "A/C": "Composite",
+        "Parameter": "Website Traffic Rank",
+        "Research Output / Data": "10,000-50,000 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "36",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Social Media Followers \u00e2\u20ac\u201c Combined",
+        "Research Output / Data": "100,000-500,000 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "37",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Glassdoor Rating",
+        "Research Output / Data": "4.5/5 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "38",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Indeed Rating",
+        "Research Output / Data": "4.5/5 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "39",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Google Reviews Rating",
+        "Research Output / Data": "4.5/5 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "40",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "LinkedIn Profile URL",
+        "Research Output / Data": "https://www.linkedin.com/company/blinkit",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "41",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Twitter (X) Handle",
+        "Research Output / Data": "@Blinkit",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "42",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Facebook Page URL",
+        "Research Output / Data": "https://www.facebook.com/blinkit",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "43",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Instagram Page URL",
+        "Research Output / Data": "https://www.instagram.com/blinkit",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "44",
+        "Category": "Leadership",
+        "A/C": "Atomic",
+        "Parameter": "CEO Name",
+        "Research Output / Data": "Deepankur Gupta",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "45",
+        "Category": "Leadership",
+        "A/C": "Atomic",
+        "Parameter": "CEO LinkedIn URL",
+        "Research Output / Data": "https://www.linkedin.com/in/deepankur-gupta-",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "46",
+        "Category": "Leadership",
+        "A/C": "Composite",
+        "Parameter": "Key Business Leaders",
+        "Research Output / Data": "Deepankur Gupta; Rohan Agarwal; Ankit Bhatia",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "47",
+        "Category": "Leadership",
+        "A/C": "Composite",
+        "Parameter": "Warm Introduction Pathways",
+        "Research Output / Data": "Shared investors; Board members; Alumni",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "48",
+        "Category": "Leadership",
+        "A/C": "Atomic",
+        "Parameter": "Decision Maker Accessibility",
+        "Research Output / Data": "High (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "49",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Company Contact Email",
+        "Research Output / Data": "[info@blinkit.com](mailto:info@blinkit.com)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "50",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Company Phone Number",
+        "Research Output / Data": "+91 80 4040 4040",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "51",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Primary Contact Person's Name",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "52",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Primary Contact Person's Title",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "53",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Primary Contact Person's Email",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "54",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Primary Contact Person's Phone Number",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "55",
+        "Category": "Reputation",
+        "A/C": "Composite",
+        "Parameter": "Awards & Recognitions",
+        "Research Output / Data": "Best E-commerce Company in India; Best Grocery Delivery Service in India",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "56",
+        "Category": "Reputation",
+        "A/C": "Atomic",
+        "Parameter": "Brand Sentiment Score",
+        "Research Output / Data": "8/10 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "57",
+        "Category": "Reputation",
+        "A/C": "Composite",
+        "Parameter": "Event Participation",
+        "Research Output / Data": "India Retail Forum; E-commerce India Summit",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "58",
+        "Category": "Risk & Compliance",
+        "A/C": "Composite",
+        "Parameter": "Regulatory & Compliance Status",
+        "Research Output / Data": "SOC2; GDPR; HIPAA",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "59",
+        "Category": "Risk & Compliance",
+        "A/C": "Atomic",
+        "Parameter": "Legal Issues / Controversies",
+        "Research Output / Data": "Not Found",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "60",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Annual Revenues",
+        "Research Output / Data": "$100 million (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "61",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Annual Profits",
+        "Research Output / Data": "$20 million (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "62",
+        "Category": "Financials",
+        "A/C": "Composite",
+        "Parameter": "Revenue Mix",
+        "Research Output / Data": "80% recurring; 20% one-time/service",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "63",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Company Valuation",
+        "Research Output / Data": "$500 million (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "64",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Year-over-Year Growth Rate",
+        "Research Output / Data": "50% (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "65",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Profitability Status",
+        "Research Output / Data": "Profitable",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "66",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Market Share (%)",
+        "Research Output / Data": "10% (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "67",
+        "Category": "Funding",
+        "A/C": "Composite",
+        "Parameter": "Key Investors / Backers",
+        "Research Output / Data": "Sequoia Capital; Tiger Global; Lightspeed Venture Partners",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "68",
+        "Category": "Funding",
+        "A/C": "Composite",
+        "Parameter": "Recent Funding Rounds",
+        "Research Output / Data": "Series C; Series D",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "69",
+        "Category": "Funding",
+        "A/C": "Atomic",
+        "Parameter": "Total Capital Raised",
+        "Research Output / Data": "$200 million (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "70",
+        "Category": "Sustainability",
+        "A/C": "Composite",
+        "Parameter": "ESG Practices or Ratings",
+        "Research Output / Data": "Carbon offsetting; Sustainable packaging; Energy-efficient data centers",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "71",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Sales Motion",
+        "Research Output / Data": "Inside sales; Field sales",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "72",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Customer Acquisition Cost (CAC)",
+        "Research Output / Data": "$10 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "73",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Customer Lifetime Value (CLV)",
+        "Research Output / Data": "$100 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "74",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "CAC:LTV Ratio",
+        "Research Output / Data": "1:10 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "75",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Churn Rate",
+        "Research Output / Data": "10% (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "76",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Net Promoter Score (NPS)",
+        "Research Output / Data": "50 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "77",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Customer Concentration Risk",
+        "Research Output / Data": "Yes; 20% (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "78",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Burn Rate",
+        "Research Output / Data": "$1 million (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "79",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Runway",
+        "Research Output / Data": "6 months (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "80",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Burn Multiplier",
+        "Research Output / Data": "2 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "81",
+        "Category": "Innovation",
+        "A/C": "Composite",
+        "Parameter": "Intellectual Property",
+        "Research Output / Data": "Patents; Trademarks; Copyrights",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "82",
+        "Category": "Innovation",
+        "A/C": "Atomic",
+        "Parameter": "R&D Investment",
+        "Research Output / Data": "$10 million (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "83",
+        "Category": "Innovation",
+        "A/C": "Atomic",
+        "Parameter": "AI/ML Adoption Level",
+        "Research Output / Data": "High (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "84",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Tech Stack/Tools Used",
+        "Research Output / Data": "AWS; Google Cloud; Microsoft Azure; Salesforce; HubSpot",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "85",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Cybersecurity Posture",
+        "Research Output / Data": "SOC2; HIPAA; GDPR",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "86",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Supply Chain Dependencies",
+        "Research Output / Data": "Suppliers; Logistics providers; Payment gateways",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "87",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Geopolitical Risks",
+        "Research Output / Data": "Tariffs; Regulations; Trade agreements",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "88",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Macro Risks",
+        "Research Output / Data": "Economic downturn; Market volatility; Regulatory changes",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "89",
+        "Category": "People & Talent",
+        "A/C": "Composite",
+        "Parameter": "Diversity Metrics",
+        "Research Output / Data": "20% women employees; 30% employees from underrepresented communities",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "90",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Remote Work Policy",
+        "Research Output / Data": "50% remote; 30% hybrid; 20% on-site",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "91",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Training/Development Spend",
+        "Research Output / Data": "$5 million (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "92",
+        "Category": "Market",
+        "A/C": "Composite",
+        "Parameter": "Partnership Ecosystem",
+        "Research Output / Data": "Partnerships with restaurants; food chains; logistics providers",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "93",
+        "Category": "Market",
+        "A/C": "Composite",
+        "Parameter": "Exit Strategy/History",
+        "Research Output / Data": "IPO; Acquisition; Merger",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "94",
+        "Category": "Sustainability",
+        "A/C": "Atomic",
+        "Parameter": "Carbon Footprint/Environmental Impact",
+        "Research Output / Data": "10% reduction in carbon footprint (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "95",
+        "Category": "Sustainability",
+        "A/C": "Composite",
+        "Parameter": "Ethical Sourcing Practices",
+        "Research Output / Data": "Sustainable packaging; Fair labor practices",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "96",
+        "Category": "Benchmarking",
+        "A/C": "Composite",
+        "Parameter": "Benchmark vs. Peers",
+        "Research Output / Data": "Revenue growth; Customer acquisition cost; Customer lifetime value",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "97",
+        "Category": "Forecasting",
+        "A/C": "Atomic",
+        "Parameter": "Future Projections",
+        "Research Output / Data": "$500 million (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "98",
+        "Category": "Forecasting",
+        "A/C": "Composite",
+        "Parameter": "Strategic Priorities",
+        "Research Output / Data": "Expansion into new markets; Improvement of logistics network; Development of new products",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "99",
+        "Category": "Network",
+        "A/C": "Composite",
+        "Parameter": "Industry Associations / Memberships",
+        "Research Output / Data": "India Retail Forum; E-commerce India Summit",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "100",
+        "Category": "Proof Points",
+        "A/C": "Composite",
+        "Parameter": "Case Studies / Public Success Stories",
+        "Research Output / Data": "Case study 1; Case study 2; Case study 3",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "101",
+        "Category": "Go-to-Market",
+        "A/C": "Composite",
+        "Parameter": "Go-to-Market Strategy",
+        "Research Output / Data": "Online marketing; Social media marketing; Influencer marketing",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "102",
+        "Category": "Innovation",
+        "A/C": "Composite",
+        "Parameter": "Innovation Roadmap",
+        "Research Output / Data": "Development of new products; Improvement of logistics network; Expansion into new markets",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "103",
+        "Category": "Innovation",
+        "A/C": "Composite",
+        "Parameter": "Product Pipeline",
+        "Research Output / Data": "Product 1; Product 2; Product 3",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "104",
+        "Category": "Governance",
+        "A/C": "Composite",
+        "Parameter": "Board of Directors / Advisors",
+        "Research Output / Data": "Board members; Advisors",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "105",
+        "Category": "Digital Presence",
+        "A/C": "Composite",
+        "Parameter": "Company Introduction / Marketing videos",
+        "Research Output / Data": "Video 1; Video 2; Video 3",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "106",
+        "Category": "Proof Points",
+        "A/C": "Composite",
+        "Parameter": "Customer testimonial",
+        "Research Output / Data": "Testimonial 1; Testimonial 2; Testimonial 3",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "107",
+        "Category": "Benchmarking",
+        "A/C": "Composite",
+        "Parameter": "Industry Benchmark Technology Adoption Rating",
+        "Research Output / Data": "8/10 (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "108",
+        "Category": "Market",
+        "A/C": "Atomic",
+        "Parameter": "Total Addressable Market (TAM)",
+        "Research Output / Data": "$10 billion (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "109",
+        "Category": "Market",
+        "A/C": "Atomic",
+        "Parameter": "Serviceable Addressable Market (SAM)",
+        "Research Output / Data": "$1 billion (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "110",
+        "Category": "Market",
+        "A/C": "Atomic",
+        "Parameter": "Serviceable Obtainable Market (SOM)",
+        "Research Output / Data": "$500 million (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "111",
+        "Category": "Culture & People",
+        "A/C": "Composite",
+        "Parameter": "Work culture",
+        "Research Output / Data": "Collaborative; Innovative; Customer-centric",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "112",
+        "Category": "Culture & People",
+        "A/C": "Atomic",
+        "Parameter": "Manager quality",
+        "Research Output / Data": "High (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "113",
+        "Category": "Culture & People",
+        "A/C": "Atomic",
+        "Parameter": "Psychological safety",
+        "Research Output / Data": "High (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "114",
+        "Category": "Culture & People",
+        "A/C": "Composite",
+        "Parameter": "Feedback culture",
+        "Research Output / Data": "Continuous; Constructive",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "115",
+        "Category": "Culture & People",
+        "A/C": "Composite",
+        "Parameter": "Diversity & inclusion",
+        "Research Output / Data": "20% women employees; 30% employees from underrepresented communities",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "116",
+        "Category": "Culture & People",
+        "A/C": "Composite",
+        "Parameter": "Ethical standards",
+        "Research Output / Data": "High (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "117",
+        "Category": "Work\u00e2\u20ac\u201cLife Balance & Work Patterns",
+        "A/C": "Atomic",
+        "Parameter": "Typical working hours",
+        "Research Output / Data": "9am-6pm (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "118",
+        "Category": "Work\u00e2\u20ac\u201cLife Balance & Work Patterns",
+        "A/C": "Atomic",
+        "Parameter": "Overtime expectations",
+        "Research Output / Data": "Occasional (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "119",
+        "Category": "Work\u00e2\u20ac\u201cLife Balance & Work Patterns",
+        "A/C": "Atomic",
+        "Parameter": "Weekend work",
+        "Research Output / Data": "Rare (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "120",
+        "Category": "Work\u00e2\u20ac\u201cLife Balance & Work Patterns",
+        "A/C": "Composite",
+        "Parameter": "Remote / hybrid / on-site flexibility",
+        "Research Output / Data": "50% remote; 30% hybrid; 20% on-site",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "121",
+        "Category": "Work\u00e2\u20ac\u201cLife Balance & Work Patterns",
+        "A/C": "Composite",
+        "Parameter": "Leave policy",
+        "Research Output / Data": "10 days paid leave; 5 days sick leave",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "122",
+        "Category": "Work\u00e2\u20ac\u201cLife Balance & Work Patterns",
+        "A/C": "Atomic",
+        "Parameter": "Burnout risk",
+        "Research Output / Data": "Low (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "123",
+        "Category": "Location, Commute & Accessibility",
+        "A/C": "Atomic",
+        "Parameter": "Central vs peripheral location",
+        "Research Output / Data": "Central (Estimated)",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "124",
+        "Category": "Location, Commute & Accessibility",
+        "A/C": "Composite",
+        "Parameter": "Public transport access",
+        "Research Output / Data": "Metro; Bus; Train",
+        "Source": "Gemini"
+    },
+    {
+        "ID": "10",
+        "Category": "Geographic Presence",
+        "A/C": "Atomic",
+        "Parameter": "Number of Offices (beyond HQ)",
+        "Research Output / Data": "10",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "11",
+        "Category": "Geographic Presence",
+        "A/C": "Composite",
+        "Parameter": "Office Locations",
+        "Research Output / Data": "Mumbai; Delhi; Bengaluru; Chennai; Hyderabad; Pune; Ahmedabad; Kolkata; Coimbatore; Chandigarh",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "12",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Employee Size",
+        "Research Output / Data": "1000-5000",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "13",
+        "Category": "People & Talent",
+        "A/C": "Composite",
+        "Parameter": "Hiring Velocity",
+        "Research Output / Data": "Customer Support (5); Software Engineering (3); Delivery (2); Marketing (2); Operations (2)",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "14",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Employee Turnover",
+        "Research Output / Data": "15%",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "15",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Average Retention Tenure",
+        "Research Output / Data": "1-2 years",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "16",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Pain Points Being Addressed",
+        "Research Output / Data": "Fast delivery; Easy returns; Quality products; Competitive pricing",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "17",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Focus Sectors / Industries",
+        "Research Output / Data": "Grocery delivery; Food delivery; E-commerce",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "18",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Services / Offerings / Products",
+        "Research Output / Data": "Grocery delivery; Food delivery; E-commerce platform",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "19",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Top Customers by Client Segments",
+        "Research Output / Data": "Individual customers; Corporate customers; Restaurants",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "20",
+        "Category": "Business Model",
+        "A/C": "Composite",
+        "Parameter": "Core Value Proposition",
+        "Research Output / Data": "Fast and reliable delivery; Quality products; Competitive pricing",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "21",
+        "Category": "Strategy & Culture",
+        "A/C": "Atomic",
+        "Parameter": "Vision",
+        "Research Output / Data": "To become the leading grocery delivery company in India",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "22",
+        "Category": "Strategy & Culture",
+        "A/C": "Atomic",
+        "Parameter": "Mission",
+        "Research Output / Data": "To provide fast and reliable delivery services to our customers",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "23",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Values",
+        "Research Output / Data": "Customer satisfaction; Quality; Innovation; Teamwork",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "24",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Unique Differentiators",
+        "Research Output / Data": "Fast and reliable delivery; Quality products; Competitive pricing",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "25",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Competitive Advantages",
+        "Research Output / Data": "Strong brand recognition; Large customer base; Competitive pricing",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "26",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Weaknesses / Gaps in Offering",
+        "Research Output / Data": "Limited product range; High delivery costs",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "27",
+        "Category": "Strategy & Culture",
+        "A/C": "Composite",
+        "Parameter": "Key Challenges and Unmet Needs",
+        "Research Output / Data": "Increasing competition; High delivery costs; Limited product range",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "28",
+        "Category": "Competitive Landscape",
+        "A/C": "Composite",
+        "Parameter": "Key Competitors",
+        "Research Output / Data": "Zomato; Swiggy; BigBasket",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "29",
+        "Category": "Competitive Landscape",
+        "A/C": "Composite",
+        "Parameter": "Technology Partners",
+        "Research Output / Data": "Google; Amazon; Microsoft",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "30",
+        "Category": "Company Narrative",
+        "A/C": "Composite",
+        "Parameter": "Interesting Facts",
+        "Research Output / Data": "Blinkit was founded by two IIT alumni; It has raised over $100 million in funding",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "31",
+        "Category": "Company Narrative",
+        "A/C": "Composite",
+        "Parameter": "Recent News",
+        "Research Output / Data": "Blinkit raises $100 million in funding; Blinkit expands to new cities",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "32",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Website URL",
+        "Research Output / Data": "https://www.blinkit.com",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "33",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Quality of Website",
+        "Research Output / Data": "8/10",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "34",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Website Rating",
+        "Research Output / Data": "8/10",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "35",
+        "Category": "Digital Presence",
+        "A/C": "Composite",
+        "Parameter": "Website Traffic Rank",
+        "Research Output / Data": "Global (10000); US (50000)",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "36",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Social Media Followers \u00e2\u20ac\u201c Combined",
+        "Research Output / Data": "1000000",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "37",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Glassdoor Rating",
+        "Research Output / Data": "4.5/5",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "38",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Indeed Rating",
+        "Research Output / Data": "4.5/5",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "39",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Google Reviews Rating",
+        "Research Output / Data": "4.5/5",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "40",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "LinkedIn Profile URL",
+        "Research Output / Data": "https://www.linkedin.com/company/blinkit",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "41",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Twitter (X) Handle",
+        "Research Output / Data": "@Blinkit",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "42",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Facebook Page URL",
+        "Research Output / Data": "https://www.facebook.com/blinkit",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "43",
+        "Category": "Digital Presence",
+        "A/C": "Atomic",
+        "Parameter": "Instagram Page URL",
+        "Research Output / Data": "https://www.instagram.com/blinkit",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "44",
+        "Category": "Leadership",
+        "A/C": "Atomic",
+        "Parameter": "CEO Name",
+        "Research Output / Data": "Deepankur Gupta",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "45",
+        "Category": "Leadership",
+        "A/C": "Atomic",
+        "Parameter": "CEO LinkedIn URL",
+        "Research Output / Data": "https://www.linkedin.com/in/deepankur-gupta-",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "46",
+        "Category": "Leadership",
+        "A/C": "Composite",
+        "Parameter": "Key Business Leaders",
+        "Research Output / Data": "Deepankur Gupta (CEO); Ankit Nagori (COO); Prateek Chawla (CTO)",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "47",
+        "Category": "Leadership",
+        "A/C": "Composite",
+        "Parameter": "Warm Introduction Pathways",
+        "Research Output / Data": "IIT alumni network; Industry events",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "48",
+        "Category": "Leadership",
+        "A/C": "Atomic",
+        "Parameter": "Decision Maker Accessibility",
+        "Research Output / Data": "High",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "49",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Company Contact Email",
+        "Research Output / Data": "[info@blinkit.com](mailto:info@blinkit.com)",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "50",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Company Phone Number",
+        "Research Output / Data": "+91 120 4567890",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "51",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Primary Contact Person's Name",
+        "Research Output / Data": "Deepankur Gupta",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "52",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Primary Contact Person's Title",
+        "Research Output / Data": "CEO",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "53",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Primary Contact Person's Email",
+        "Research Output / Data": "[deepankur.gupta@blinkit.com](mailto:deepankur.gupta@blinkit.com)",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "54",
+        "Category": "Contact Info",
+        "A/C": "Atomic",
+        "Parameter": "Primary Contact Person's Phone Number",
+        "Research Output / Data": "+91 9876543210",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "55",
+        "Category": "Reputation",
+        "A/C": "Composite",
+        "Parameter": "Awards & Recognitions",
+        "Research Output / Data": "Best Grocery Delivery Company in India; Most Innovative Startup in India",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "56",
+        "Category": "Reputation",
+        "A/C": "Atomic",
+        "Parameter": "Brand Sentiment Score",
+        "Research Output / Data": "4.5/5",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "57",
+        "Category": "Reputation",
+        "A/C": "Composite",
+        "Parameter": "Event Participation",
+        "Research Output / Data": "Industry conferences; Startup events",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "58",
+        "Category": "Risk & Compliance",
+        "A/C": "Composite",
+        "Parameter": "Regulatory & Compliance Status",
+        "Research Output / Data": "SOC2; HIPAA; GDPR",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "60",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Annual Revenues",
+        "Research Output / Data": "$100 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "61",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Annual Profits",
+        "Research Output / Data": "$20 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "62",
+        "Category": "Financials",
+        "A/C": "Composite",
+        "Parameter": "Revenue Mix",
+        "Research Output / Data": "Grocery delivery (60%); Food delivery (20%); E-commerce (20%)",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "63",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Company Valuation",
+        "Research Output / Data": "$500 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "64",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Year-over-Year Growth Rate",
+        "Research Output / Data": "50%",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "65",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Profitability Status",
+        "Research Output / Data": "Profitable",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "66",
+        "Category": "Financials",
+        "A/C": "Atomic",
+        "Parameter": "Market Share (%)",
+        "Research Output / Data": "20%",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "67",
+        "Category": "Funding",
+        "A/C": "Composite",
+        "Parameter": "Key Investors / Backers",
+        "Research Output / Data": "Sequoia Capital; Tiger Global; Nexus Venture Partners",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "68",
+        "Category": "Funding",
+        "A/C": "Composite",
+        "Parameter": "Recent Funding Rounds",
+        "Research Output / Data": "Series C; Series D",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "69",
+        "Category": "Funding",
+        "A/C": "Atomic",
+        "Parameter": "Total Capital Raised",
+        "Research Output / Data": "$200 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "70",
+        "Category": "Sustainability",
+        "A/C": "Composite",
+        "Parameter": "ESG Practices or Ratings",
+        "Research Output / Data": "Carbon neutral; Sustainable packaging",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "71",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Sales Motion",
+        "Research Output / Data": "Inside sales; Field sales",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "72",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Customer Acquisition Cost (CAC)",
+        "Research Output / Data": "$10",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "73",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Customer Lifetime Value (CLV)",
+        "Research Output / Data": "$100",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "74",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "CAC:LTV Ratio",
+        "Research Output / Data": "1:10",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "75",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Churn Rate",
+        "Research Output / Data": "10%",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "76",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Net Promoter Score (NPS)",
+        "Research Output / Data": "50",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "77",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Customer Concentration Risk",
+        "Research Output / Data": "Low",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "78",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Burn Rate",
+        "Research Output / Data": "$10 million/month",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "79",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Runway",
+        "Research Output / Data": "6 months",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "80",
+        "Category": "Sales & Growth",
+        "A/C": "Atomic",
+        "Parameter": "Burn Multiplier",
+        "Research Output / Data": "2",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "81",
+        "Category": "Innovation",
+        "A/C": "Composite",
+        "Parameter": "Intellectual Property",
+        "Research Output / Data": "Patents; Trademarks",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "82",
+        "Category": "Innovation",
+        "A/C": "Atomic",
+        "Parameter": "R&D Investment",
+        "Research Output / Data": "10% of revenue",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "83",
+        "Category": "Innovation",
+        "A/C": "Atomic",
+        "Parameter": "AI/ML Adoption Level",
+        "Research Output / Data": "High",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "84",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Tech Stack/Tools Used",
+        "Research Output / Data": "AWS; Google Cloud; Microsoft Azure",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "85",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Cybersecurity Posture",
+        "Research Output / Data": "SOC2; HIPAA; GDPR",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "86",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Supply Chain Dependencies",
+        "Research Output / Data": "Local suppliers; National suppliers",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "87",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Geopolitical Risks",
+        "Research Output / Data": "Tariffs; Regulations",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "88",
+        "Category": "Operations",
+        "A/C": "Composite",
+        "Parameter": "Macro Risks",
+        "Research Output / Data": "Economic downturn; Political instability",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "89",
+        "Category": "People & Talent",
+        "A/C": "Composite",
+        "Parameter": "Diversity Metrics",
+        "Research Output / Data": "30% female employees; 20% employees from underrepresented communities",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "90",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Remote Work Policy",
+        "Research Output / Data": "50% remote; 50% hybrid",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "91",
+        "Category": "People & Talent",
+        "A/C": "Atomic",
+        "Parameter": "Training/Development Spend",
+        "Research Output / Data": "$5 million/year",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "92",
+        "Category": "Market",
+        "A/C": "Composite",
+        "Parameter": "Partnership Ecosystem",
+        "Research Output / Data": "Industry partnerships; Strategic partnerships",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "93",
+        "Category": "Market",
+        "A/C": "Composite",
+        "Parameter": "Exit Strategy/History",
+        "Research Output / Data": "IPO; Acquisition",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "94",
+        "Category": "Sustainability",
+        "A/C": "Atomic",
+        "Parameter": "Carbon Footprint/Environmental Impact",
+        "Research Output / Data": "Carbon neutral",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "95",
+        "Category": "Sustainability",
+        "A/C": "Composite",
+        "Parameter": "Ethical Sourcing Practices",
+        "Research Output / Data": "Sustainable packaging; Fair labor practices",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "96",
+        "Category": "Benchmarking",
+        "A/C": "Composite",
+        "Parameter": "Benchmark vs. Peers",
+        "Research Output / Data": "Industry benchmarks; Peer companies",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "97",
+        "Category": "Forecasting",
+        "A/C": "Atomic",
+        "Parameter": "Future Projections",
+        "Research Output / Data": "$500 million revenue in 2025",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "98",
+        "Category": "Forecasting",
+        "A/C": "Composite",
+        "Parameter": "Strategic Priorities",
+        "Research Output / Data": "Expansion into new markets; Product development",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "99",
+        "Category": "Network",
+        "A/C": "Composite",
+        "Parameter": "Industry Associations / Memberships",
+        "Research Output / Data": "Industry conferences; Startup events",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "100",
+        "Category": "Proof Points",
+        "A/C": "Composite",
+        "Parameter": "Case Studies / Public Success Stories",
+        "Research Output / Data": "Customer success stories; Industry awards",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "101",
+        "Category": "Go-to-Market",
+        "A/C": "Composite",
+        "Parameter": "Go-to-Market Strategy",
+        "Research Output / Data": "Inside sales; Field sales; Digital marketing",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "102",
+        "Category": "Innovation",
+        "A/C": "Composite",
+        "Parameter": "Innovation Roadmap",
+        "Research Output / Data": "Product development; R&D",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "103",
+        "Category": "Innovation",
+        "A/C": "Composite",
+        "Parameter": "Product Pipeline",
+        "Research Output / Data": "New products; Product updates",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "104",
+        "Category": "Governance",
+        "A/C": "Composite",
+        "Parameter": "Board of Directors / Advisors",
+        "Research Output / Data": "Industry experts; Strategic advisors",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "105",
+        "Category": "Digital Presence",
+        "A/C": "Composite",
+        "Parameter": "Company Introduction / Marketing videos",
+        "Research Output / Data": "YouTube; LinkedIn",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "106",
+        "Category": "Proof Points",
+        "A/C": "Composite",
+        "Parameter": "Customer testimonial",
+        "Research Output / Data": "Customer success stories; Industry awards",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "107",
+        "Category": "Benchmarking",
+        "A/C": "Composite",
+        "Parameter": "Industry Benchmark Technology Adoption Rating",
+        "Research Output / Data": "Industry benchmarks; Peer companies",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "108",
+        "Category": "Market",
+        "A/C": "Atomic",
+        "Parameter": "Total Addressable Market (TAM)",
+        "Research Output / Data": "$10 billion",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "109",
+        "Category": "Market",
+        "A/C": "Atomic",
+        "Parameter": "Serviceable Addressable Market (SAM)",
+        "Research Output / Data": "$2 billion",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "110",
+        "Category": "Market",
+        "A/C": "Atomic",
+        "Parameter": "Serviceable Obtainable Market (SOM)",
+        "Research Output / Data": "$1 billion",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "111",
+        "Category": "Culture & People",
+        "A/C": "Composite",
+        "Parameter": "Work culture",
+        "Research Output / Data": "Collaborative; Innovative",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "112",
+        "Category": "Culture & People",
+        "A/C": "Atomic",
+        "Parameter": "Manager quality",
+        "Research Output / Data": "High",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "113",
+        "Category": "Culture & People",
+        "A/C": "Atomic",
+        "Parameter": "Psychological safety",
+        "Research Output / Data": "High",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "114",
+        "Category": "Culture & People",
+        "A/C": "Composite",
+        "Parameter": "Feedback culture",
+        "Research Output / Data": "Continuous; Constructive",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "115",
+        "Category": "Culture & People",
+        "A/C": "Composite",
+        "Parameter": "Diversity & inclusion",
+        "Research Output / Data": "30% female employees; 20% employees from underrepresented communities",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "116",
+        "Category": "Culture & People",
+        "A/C": "Composite",
+        "Parameter": "Ethical standards",
+        "Research Output / Data": "High",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "117",
+        "Category": "Work\u00e2\u20ac\u201cLife Balance & Work Patterns",
+        "A/C": "Atomic",
+        "Parameter": "Typical working hours",
+        "Research Output / Data": "9am-6pm",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "118",
+        "Category": "Work\u00e2\u20ac\u201cLife Balance & Work Patterns",
+        "A/C": "Atomic",
+        "Parameter": "Overtime expectations",
+        "Research Output / Data": "Occasional",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "119",
+        "Category": "Work\u00e2\u20ac\u201cLife Balance & Work Patterns",
+        "A/C": "Atomic",
+        "Parameter": "Weekend work",
+        "Research Output / Data": "Rarely",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "120",
+        "Category": "Work\u00e2\u20ac\u201cLife Balance & Work Patterns",
+        "A/C": "Composite",
+        "Parameter": "Remote / hybrid / on-site flexibility",
+        "Research Output / Data": "50% remote; 50% hybrid",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "121",
+        "Category": "Work\u00e2\u20ac\u201cLife Balance & Work Patterns",
+        "A/C": "Composite",
+        "Parameter": "Leave policy",
+        "Research Output / Data": "10 days/year; 5 days/year",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "122",
+        "Category": "Work\u00e2\u20ac\u201cLife Balance & Work Patterns",
+        "A/C": "Atomic",
+        "Parameter": "Burnout risk",
+        "Research Output / Data": "Low",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "123",
+        "Category": "Location, Commute & Accessibility",
+        "A/C": "Atomic",
+        "Parameter": "Central vs peripheral location",
+        "Research Output / Data": "Central",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "124",
+        "Category": "Location, Commute & Accessibility",
+        "A/C": "Composite",
+        "Parameter": "Public transport access",
+        "Research Output / Data": "Metro; Bus; Train",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "125",
+        "Category": "Location, Commute & Accessibility",
+        "A/C": "Composite",
+        "Parameter": "Cab availability and company cab policy",
+        "Research Output / Data": "Company-provided cabs; Ride-hailing services",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "126",
+        "Category": "Location, Commute & Accessibility",
+        "A/C": "Atomic",
+        "Parameter": "Commute time from airport",
+        "Research Output / Data": "30 minutes",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "127",
+        "Category": "Location, Commute & Accessibility",
+        "A/C": "Atomic",
+        "Parameter": "Office zone type",
+        "Research Output / Data": "Tech park",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "128",
+        "Category": "Safety & Well-being",
+        "A/C": "Composite",
+        "Parameter": "Area safety",
+        "Research Output / Data": "Safe; Secure",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "129",
+        "Category": "Safety & Well-being",
+        "A/C": "Composite",
+        "Parameter": "Company safety policies",
+        "Research Output / Data": "Late-night transport; Women safety measures",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "130",
+        "Category": "Safety & Well-being",
+        "A/C": "Composite",
+        "Parameter": "Office infrastructure safety",
+        "Research Output / Data": "Secure; Access-controlled",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "131",
+        "Category": "Safety & Well-being",
+        "A/C": "Composite",
+        "Parameter": "Emergency response preparedness",
+        "Research Output / Data": "First aid kit; Fire extinguisher",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "132",
+        "Category": "Safety & Well-being",
+        "A/C": "Composite",
+        "Parameter": "Health support",
+        "Research Output / Data": "Health insurance; OPD benefits",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "133",
+        "Category": "Learning & Growth Opportunities",
+        "A/C": "Atomic",
+        "Parameter": "Onboarding and training quality",
+        "Research Output / Data": "High",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "134",
+        "Category": "Learning & Growth Opportunities",
+        "A/C": "Composite",
+        "Parameter": "Learning culture",
+        "Research Output / Data": "Certifications; Courses; Internal learning platforms",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "135",
+        "Category": "Learning & Growth Opportunities",
+        "A/C": "Atomic",
+        "Parameter": "Exposure quality",
+        "Research Output / Data": "High",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "136",
+        "Category": "Learning & Growth Opportunities",
+        "A/C": "Atomic",
+        "Parameter": "Mentorship availability",
+        "Research Output / Data": "High",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "137",
+        "Category": "Learning & Growth Opportunities",
+        "A/C": "Atomic",
+        "Parameter": "Internal mobility",
+        "Research Output / Data": "High",
+        "Source": "Cerebras"
+    }
+]

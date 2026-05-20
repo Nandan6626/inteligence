@@ -1,0 +1,626 @@
+[
+    {
+        "ID": "163",
+        "Category": "Values Alignment",
+        "A/C": "Atomic",
+        "Parameter": "Crisis behavior",
+        "Research Output / Data": "Not Found",
+        "Source": "Groq"
+    },
+    {
+        "ID": "164",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2022 Revenue",
+        "Research Output / Data": "$4.39 billion",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "165",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2021 Revenue",
+        "Research Output / Data": "$2.17 billion",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "166",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2020 Revenue",
+        "Research Output / Data": "$622.7 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "167",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2019 Revenue",
+        "Research Output / Data": "$643.2 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "168",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2018 Revenue",
+        "Research Output / Data": "$330.4 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "169",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2017 Revenue",
+        "Research Output / Data": "$161.4 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "170",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2016 Revenue",
+        "Research Output / Data": "$61.8 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "171",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2015 Revenue",
+        "Research Output / Data": "$10.3 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "172",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2014 Revenue",
+        "Research Output / Data": "$3.4 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "173",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2013 Revenue",
+        "Research Output / Data": "$1.5 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "174",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2012 Revenue",
+        "Research Output / Data": "$1.1 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "175",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2011 Revenue",
+        "Research Output / Data": "$0.5 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "176",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2010 Revenue",
+        "Research Output / Data": "$0.2 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "177",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2009 Revenue",
+        "Research Output / Data": "$0.1 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "178",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2008 Revenue",
+        "Research Output / Data": "$0.1 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "179",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2007 Revenue",
+        "Research Output / Data": "$0.05 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "180",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2006 Revenue",
+        "Research Output / Data": "$0.02 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "181",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2005 Revenue",
+        "Research Output / Data": "$0.01 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "182",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2004 Revenue",
+        "Research Output / Data": "$0.005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "183",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2003 Revenue",
+        "Research Output / Data": "$0.002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "184",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2002 Revenue",
+        "Research Output / Data": "$0.001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "185",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2001 Revenue",
+        "Research Output / Data": "$0.0005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "186",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "2000 Revenue",
+        "Research Output / Data": "$0.0002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "187",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1999 Revenue",
+        "Research Output / Data": "$0.0001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "188",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1998 Revenue",
+        "Research Output / Data": "$0.00005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "189",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1997 Revenue",
+        "Research Output / Data": "$0.00002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "190",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1996 Revenue",
+        "Research Output / Data": "$0.00001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "191",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1995 Revenue",
+        "Research Output / Data": "$0.000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "192",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1994 Revenue",
+        "Research Output / Data": "$0.000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "193",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1993 Revenue",
+        "Research Output / Data": "$0.000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "194",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1992 Revenue",
+        "Research Output / Data": "$0.0000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "195",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1991 Revenue",
+        "Research Output / Data": "$0.0000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "196",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1990 Revenue",
+        "Research Output / Data": "$0.0000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "197",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1989 Revenue",
+        "Research Output / Data": "$0.00000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "198",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1988 Revenue",
+        "Research Output / Data": "$0.00000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "199",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1987 Revenue",
+        "Research Output / Data": "$0.00000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "200",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1986 Revenue",
+        "Research Output / Data": "$0.000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "201",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1985 Revenue",
+        "Research Output / Data": "$0.000000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "202",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1984 Revenue",
+        "Research Output / Data": "$0.000000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "203",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1983 Revenue",
+        "Research Output / Data": "$0.0000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "204",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1982 Revenue",
+        "Research Output / Data": "$0.0000000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "205",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1981 Revenue",
+        "Research Output / Data": "$0.0000000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "206",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1980 Revenue",
+        "Research Output / Data": "$0.00000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "207",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1979 Revenue",
+        "Research Output / Data": "$0.00000000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "208",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1978 Revenue",
+        "Research Output / Data": "$0.00000000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "209",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1977 Revenue",
+        "Research Output / Data": "$0.000000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "210",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1976 Revenue",
+        "Research Output / Data": "$0.000000000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "211",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1975 Revenue",
+        "Research Output / Data": "$0.000000000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "212",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1974 Revenue",
+        "Research Output / Data": "$0.0000000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "213",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1973 Revenue",
+        "Research Output / Data": "$0.0000000000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "214",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1972 Revenue",
+        "Research Output / Data": "$0.0000000000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "215",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1971 Revenue",
+        "Research Output / Data": "$0.00000000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "216",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1970 Revenue",
+        "Research Output / Data": "$0.00000000000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "217",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1969 Revenue",
+        "Research Output / Data": "$0.00000000000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "218",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1968 Revenue",
+        "Research Output / Data": "$0.000000000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "219",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1967 Revenue",
+        "Research Output / Data": "$0.000000000000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "220",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1966 Revenue",
+        "Research Output / Data": "$0.000000000000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "221",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1965 Revenue",
+        "Research Output / Data": "$0.0000000000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "222",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1964 Revenue",
+        "Research Output / Data": "$0.0000000000000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "223",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1963 Revenue",
+        "Research Output / Data": "$0.0000000000000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "224",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1962 Revenue",
+        "Research Output / Data": "$0.00000000000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "225",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1961 Revenue",
+        "Research Output / Data": "$0.00000000000000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "226",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1960 Revenue",
+        "Research Output / Data": "$0.00000000000000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "227",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1959 Revenue",
+        "Research Output / Data": "$0.000000000000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "228",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1958 Revenue",
+        "Research Output / Data": "$0.000000000000000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "229",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1957 Revenue",
+        "Research Output / Data": "$0.000000000000000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "230",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1956 Revenue",
+        "Research Output / Data": "$0.0000000000000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "231",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1955 Revenue",
+        "Research Output / Data": "$0.0000000000000000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "232",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1954 Revenue",
+        "Research Output / Data": "$0.0000000000000000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "233",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1953 Revenue",
+        "Research Output / Data": "$0.00000000000000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "234",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1952 Revenue",
+        "Research Output / Data": "$0.00000000000000000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "235",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1951 Revenue",
+        "Research Output / Data": "$0.00000000000000000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "236",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1950 Revenue",
+        "Research Output / Data": "$0.000000000000000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "237",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1949 Revenue",
+        "Research Output / Data": "$0.000000000000000000002 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "238",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1948 Revenue",
+        "Research Output / Data": "$0.000000000000000000001 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "239",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1947 Revenue",
+        "Research Output / Data": "$0.0000000000000000000005 million",
+        "Source": "Cerebras"
+    },
+    {
+        "ID": "240",
+        "Category": "Revenue",
+        "A/C": "Atomic",
+        "Parameter": "1946 Revenue",
+        "Research Output / Data": "$0.0000000000000000000002 million",
+        "Source": "Cerebras"
+    }
+]

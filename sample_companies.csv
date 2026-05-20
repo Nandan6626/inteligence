@@ -1,0 +1,6 @@
+company_name,industry,description,website,funding_total,employee_count,revenue
+Acme Corp,Software,"Leading provider of cloud infrastructure and DevOps tools. Strong presence in North America.",https://acme.example.com,150000000,1200,50000000
+Globex Inc,Manufacturing,"Global manufacturer of industrial equipment with recent expansion into IoT automation.",https://globex.example.com,50000000,3000,200000000
+Initech,Finance,"Fintech startup disrupting legacy banking with AI-driven loan approvals.",https://initech.example.com,12000000,150,2000000
+Massive Dynamic,Biotech,"Pioneering gene therapy and advanced pharmaceuticals. High R&D expenditure.",https://massivedynamic.example.com,800000000,5000,1000000000
+Stark Industries,Defense,"Defense and energy conglomerate shifting towards sustainable arc reactor tech.",https://stark.example.com,5000000000,50000,15000000000
