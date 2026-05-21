@@ -69,8 +69,17 @@ pipeline {
                 stage('Install dependencies') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat 'python -m pip install --upgrade pip'
-                            bat 'python -m pip install -r requirements.txt'
+                            bat '''
+                                setlocal EnableDelayedExpansion
+                                where py >nul 2>nul
+                                if errorlevel 1 (
+                                    set "PY_EXE=python"
+                                ) else (
+                                    set "PY_EXE=py -3"
+                                )
+                                !PY_EXE! -m pip install --upgrade pip
+                                !PY_EXE! -m pip install -r requirements.txt
+                            '''
                         }
                     }
                 }
@@ -78,7 +87,16 @@ pipeline {
                 stage('Execute tests') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat 'python test_run.py'
+                            bat '''
+                                setlocal EnableDelayedExpansion
+                                where py >nul 2>nul
+                                if errorlevel 1 (
+                                    set "PY_EXE=python"
+                                ) else (
+                                    set "PY_EXE=py -3"
+                                )
+                                !PY_EXE! test_run.py
+                            '''
                         }
                     }
                 }
@@ -86,7 +104,16 @@ pipeline {
                 stage('Build services') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat 'python -m compileall app'
+                            bat '''
+                                setlocal EnableDelayedExpansion
+                                where py >nul 2>nul
+                                if errorlevel 1 (
+                                    set "PY_EXE=python"
+                                ) else (
+                                    set "PY_EXE=py -3"
+                                )
+                                !PY_EXE! -m compileall app
+                            '''
                         }
                     }
                 }
@@ -111,7 +138,16 @@ pipeline {
                 stage('Dependency handling') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat 'python -m pip install -r requirements.txt'
+                            bat '''
+                                setlocal EnableDelayedExpansion
+                                where py >nul 2>nul
+                                if errorlevel 1 (
+                                    set "PY_EXE=python"
+                                ) else (
+                                    set "PY_EXE=py -3"
+                                )
+                                !PY_EXE! -m pip install -r requirements.txt
+                            '''
                         }
                     }
                 }
@@ -119,7 +155,16 @@ pipeline {
                 stage('Multi-agent orchestration setup') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat 'python -c "from dotenv import load_dotenv; from app.graph import workflow_app; load_dotenv(); print(\'LangGraph workflow initialized:\', workflow_app is not None)"'
+                            bat '''
+                                setlocal EnableDelayedExpansion
+                                where py >nul 2>nul
+                                if errorlevel 1 (
+                                    set "PY_EXE=python"
+                                ) else (
+                                    set "PY_EXE=py -3"
+                                )
+                                !PY_EXE! -c "from dotenv import load_dotenv; from app.graph import workflow_app; load_dotenv(); print('LangGraph workflow initialized:', workflow_app is not None)"
+                            '''
                         }
                     }
                 }
@@ -127,7 +172,16 @@ pipeline {
                 stage('Service initialization') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat 'python -c "from app.config.settings import settings; from app.main import app; print(\'Backend service initialized:\', settings.APP_NAME); print(\'FastAPI app title:\', app.title)"'
+                            bat '''
+                                setlocal EnableDelayedExpansion
+                                where py >nul 2>nul
+                                if errorlevel 1 (
+                                    set "PY_EXE=python"
+                                ) else (
+                                    set "PY_EXE=py -3"
+                                )
+                                !PY_EXE! -c "from app.config.settings import settings; from app.main import app; print('Backend service initialized:', settings.APP_NAME); print('FastAPI app title:', app.title)"
+                            '''
                         }
                     }
                 }
@@ -135,7 +189,16 @@ pipeline {
                 stage('Workflow execution') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat 'python test_run.py'
+                            bat '''
+                                setlocal EnableDelayedExpansion
+                                where py >nul 2>nul
+                                if errorlevel 1 (
+                                    set "PY_EXE=python"
+                                ) else (
+                                    set "PY_EXE=py -3"
+                                )
+                                !PY_EXE! test_run.py
+                            '''
                         }
                     }
                 }
