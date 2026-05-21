@@ -26,4 +26,6 @@ dist-ssr
 .env
 .env.local
 .env.*
+!.env.local.example
+!.env.example
 node_modules/
