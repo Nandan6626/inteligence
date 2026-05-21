@@ -10,6 +10,7 @@ pipeline {
     environment {
         FRONTEND_DIR = 'frontend'
         BACKEND_DIR = 'backend'
+        BACKEND_PYTHON = 'venv313\\Scripts\\python.exe'
         FRONTEND_IMAGE = "ggraph-frontend:${BUILD_NUMBER}"
         BACKEND_IMAGE = "ggraph-backend:${BUILD_NUMBER}"
         COMPOSE_PROJECT_NAME = "ggraph-${BUILD_NUMBER}"
@@ -70,15 +71,19 @@ pipeline {
                     steps {
                         dir("${BACKEND_DIR}") {
                             bat '''
-                                setlocal EnableDelayedExpansion
-                                where py >nul 2>nul
-                                if errorlevel 1 (
-                                    set "PY_EXE=python"
+                                if exist "%BACKEND_PYTHON%" (
+                                    "%BACKEND_PYTHON%" -m pip install --upgrade pip
+                                    "%BACKEND_PYTHON%" -m pip install -r requirements.txt
                                 ) else (
-                                    set "PY_EXE=py -3"
+                                    where py >nul 2>nul
+                                    if errorlevel 1 (
+                                        python -m pip install --upgrade pip
+                                        python -m pip install -r requirements.txt
+                                    ) else (
+                                        py -3 -m pip install --upgrade pip
+                                        py -3 -m pip install -r requirements.txt
+                                    )
                                 )
-                                !PY_EXE! -m pip install --upgrade pip
-                                !PY_EXE! -m pip install -r requirements.txt
                             '''
                         }
                     }
@@ -88,14 +93,16 @@ pipeline {
                     steps {
                         dir("${BACKEND_DIR}") {
                             bat '''
-                                setlocal EnableDelayedExpansion
-                                where py >nul 2>nul
-                                if errorlevel 1 (
-                                    set "PY_EXE=python"
+                                if exist "%BACKEND_PYTHON%" (
+                                    "%BACKEND_PYTHON%" test_run.py
                                 ) else (
-                                    set "PY_EXE=py -3"
+                                    where py >nul 2>nul
+                                    if errorlevel 1 (
+                                        python test_run.py
+                                    ) else (
+                                        py -3 test_run.py
+                                    )
                                 )
-                                !PY_EXE! test_run.py
                             '''
                         }
                     }
@@ -105,14 +112,16 @@ pipeline {
                     steps {
                         dir("${BACKEND_DIR}") {
                             bat '''
-                                setlocal EnableDelayedExpansion
-                                where py >nul 2>nul
-                                if errorlevel 1 (
-                                    set "PY_EXE=python"
+                                if exist "%BACKEND_PYTHON%" (
+                                    "%BACKEND_PYTHON%" -m compileall app
                                 ) else (
-                                    set "PY_EXE=py -3"
+                                    where py >nul 2>nul
+                                    if errorlevel 1 (
+                                        python -m compileall app
+                                    ) else (
+                                        py -3 -m compileall app
+                                    )
                                 )
-                                !PY_EXE! -m compileall app
                             '''
                         }
                     }
@@ -139,14 +148,16 @@ pipeline {
                     steps {
                         dir("${BACKEND_DIR}") {
                             bat '''
-                                setlocal EnableDelayedExpansion
-                                where py >nul 2>nul
-                                if errorlevel 1 (
-                                    set "PY_EXE=python"
+                                if exist "%BACKEND_PYTHON%" (
+                                    "%BACKEND_PYTHON%" -m pip install -r requirements.txt
                                 ) else (
-                                    set "PY_EXE=py -3"
+                                    where py >nul 2>nul
+                                    if errorlevel 1 (
+                                        python -m pip install -r requirements.txt
+                                    ) else (
+                                        py -3 -m pip install -r requirements.txt
+                                    )
                                 )
-                                !PY_EXE! -m pip install -r requirements.txt
                             '''
                         }
                     }
@@ -156,14 +167,16 @@ pipeline {
                     steps {
                         dir("${BACKEND_DIR}") {
                             bat '''
-                                setlocal EnableDelayedExpansion
-                                where py >nul 2>nul
-                                if errorlevel 1 (
-                                    set "PY_EXE=python"
+                                if exist "%BACKEND_PYTHON%" (
+                                    "%BACKEND_PYTHON%" -c "from dotenv import load_dotenv; from app.graph import workflow_app; load_dotenv(); print('LangGraph workflow initialized:', workflow_app is not None)"
                                 ) else (
-                                    set "PY_EXE=py -3"
+                                    where py >nul 2>nul
+                                    if errorlevel 1 (
+                                        python -c "from dotenv import load_dotenv; from app.graph import workflow_app; load_dotenv(); print('LangGraph workflow initialized:', workflow_app is not None)"
+                                    ) else (
+                                        py -3 -c "from dotenv import load_dotenv; from app.graph import workflow_app; load_dotenv(); print('LangGraph workflow initialized:', workflow_app is not None)"
+                                    )
                                 )
-                                !PY_EXE! -c "from dotenv import load_dotenv; from app.graph import workflow_app; load_dotenv(); print('LangGraph workflow initialized:', workflow_app is not None)"
                             '''
                         }
                     }
@@ -173,14 +186,16 @@ pipeline {
                     steps {
                         dir("${BACKEND_DIR}") {
                             bat '''
-                                setlocal EnableDelayedExpansion
-                                where py >nul 2>nul
-                                if errorlevel 1 (
-                                    set "PY_EXE=python"
+                                if exist "%BACKEND_PYTHON%" (
+                                    "%BACKEND_PYTHON%" -c "from app.config.settings import settings; from app.main import app; print('Backend service initialized:', settings.APP_NAME); print('FastAPI app title:', app.title)"
                                 ) else (
-                                    set "PY_EXE=py -3"
+                                    where py >nul 2>nul
+                                    if errorlevel 1 (
+                                        python -c "from app.config.settings import settings; from app.main import app; print('Backend service initialized:', settings.APP_NAME); print('FastAPI app title:', app.title)"
+                                    ) else (
+                                        py -3 -c "from app.config.settings import settings; from app.main import app; print('Backend service initialized:', settings.APP_NAME); print('FastAPI app title:', app.title)"
+                                    )
                                 )
-                                !PY_EXE! -c "from app.config.settings import settings; from app.main import app; print('Backend service initialized:', settings.APP_NAME); print('FastAPI app title:', app.title)"
                             '''
                         }
                     }
@@ -190,14 +205,16 @@ pipeline {
                     steps {
                         dir("${BACKEND_DIR}") {
                             bat '''
-                                setlocal EnableDelayedExpansion
-                                where py >nul 2>nul
-                                if errorlevel 1 (
-                                    set "PY_EXE=python"
+                                if exist "%BACKEND_PYTHON%" (
+                                    "%BACKEND_PYTHON%" test_run.py
                                 ) else (
-                                    set "PY_EXE=py -3"
+                                    where py >nul 2>nul
+                                    if errorlevel 1 (
+                                        python test_run.py
+                                    ) else (
+                                        py -3 test_run.py
+                                    )
                                 )
-                                !PY_EXE! test_run.py
                             '''
                         }
                     }
