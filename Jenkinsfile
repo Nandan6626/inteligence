@@ -21,12 +21,13 @@ pipeline {
     stages {
 
         stage('Front-end Pipeline') {
+
             stages {
 
                 stage('Install dependencies') {
                     steps {
                         dir("${FRONTEND_DIR}") {
-                            sh 'npm ci'
+                            bat 'npm ci'
                         }
                     }
                 }
@@ -34,8 +35,8 @@ pipeline {
                 stage('Run validations / tests') {
                     steps {
                         dir("${FRONTEND_DIR}") {
-                            sh 'npm run lint'
-                            sh 'npm run test'
+                            bat 'npm run lint'
+                            bat 'npm run test'
                         }
                     }
                 }
@@ -43,7 +44,7 @@ pipeline {
                 stage('Build application') {
                     steps {
                         dir("${FRONTEND_DIR}") {
-                            sh 'npm run build'
+                            bat 'npm run build'
                         }
                     }
                 }
@@ -51,7 +52,7 @@ pipeline {
                 stage('Docker image creation') {
                     steps {
                         dir("${FRONTEND_DIR}") {
-                            sh 'docker build --build-arg VITE_API_URL=/api/v1 -t "${FRONTEND_IMAGE}" .'
+                            bat 'docker build --build-arg VITE_API_URL=/api/v1 -t "%FRONTEND_IMAGE%" .'
                         }
                     }
                 }
@@ -59,13 +60,14 @@ pipeline {
         }
 
         stage('Back-end Pipeline') {
+
             stages {
 
                 stage('Install dependencies') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            sh 'python -m pip install --upgrade pip'
-                            sh 'python -m pip install -r requirements.txt'
+                            bat 'python -m pip install --upgrade pip'
+                            bat 'python -m pip install -r requirements.txt'
                         }
                     }
                 }
@@ -73,7 +75,7 @@ pipeline {
                 stage('Execute tests') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            sh 'python test_run.py'
+                            bat 'python test_run.py'
                         }
                     }
                 }
@@ -81,7 +83,7 @@ pipeline {
                 stage('Build services') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            sh 'python -m compileall app'
+                            bat 'python -m compileall app'
                         }
                     }
                 }
@@ -89,7 +91,7 @@ pipeline {
                 stage('Docker image creation') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            sh 'docker build -t "${BACKEND_IMAGE}" .'
+                            bat 'docker build -t "%BACKEND_IMAGE%" .'
                         }
                     }
                 }
@@ -97,12 +99,13 @@ pipeline {
         }
 
         stage('Agentic Orchestration Pipeline') {
+
             stages {
 
                 stage('Dependency handling') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            sh 'python -m pip install -r requirements.txt'
+                            bat 'python -m pip install -r requirements.txt'
                         }
                     }
                 }
@@ -110,7 +113,7 @@ pipeline {
                 stage('Multi-agent orchestration setup') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            sh 'python -c "from dotenv import load_dotenv; from app.graph import workflow_app; load_dotenv(); print(\'LangGraph workflow initialized:\', workflow_app is not None)"'
+                            bat 'python -c "from dotenv import load_dotenv; from app.graph import workflow_app; load_dotenv(); print(\'LangGraph workflow initialized:\', workflow_app is not None)"'
                         }
                     }
                 }
@@ -118,7 +121,7 @@ pipeline {
                 stage('Service initialization') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            sh 'python -c "from app.config.settings import settings; from app.main import app; print(\'Backend service initialized:\', settings.APP_NAME); print(\'FastAPI app title:\', app.title)"'
+                            bat 'python -c "from app.config.settings import settings; from app.main import app; print(\'Backend service initialized:\', settings.APP_NAME); print(\'FastAPI app title:\', app.title)"'
                         }
                     }
                 }
@@ -126,7 +129,7 @@ pipeline {
                 stage('Workflow execution') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            sh 'python test_run.py'
+                            bat 'python test_run.py'
                         }
                     }
                 }
@@ -134,16 +137,14 @@ pipeline {
         }
 
         stage('Full-Stack Integration Pipeline') {
+
             steps {
-                sh '''
-                    set -e
 
-                    COMPOSE_CMD=$(docker compose version >/dev/null 2>&1 && echo 'docker compose' || echo 'docker-compose')
+                bat '''
+                    docker compose up -d --build backend frontend redis
 
-                    $COMPOSE_CMD up -d --build backend frontend redis
-
-                    curl --fail --silent --show-error --retry 5 --retry-delay 2 --retry-all-errors http://localhost:8000/health/
-                    curl --fail --silent --show-error --retry 5 --retry-delay 2 --retry-all-errors http://localhost/
+                    curl http://localhost:8000/health/
+                    curl http://localhost/
                 '''
             }
         }
@@ -152,16 +153,16 @@ pipeline {
     post {
 
         always {
-            sh '''
-                COMPOSE_CMD=$(docker compose version >/dev/null 2>&1 && echo 'docker compose' || echo 'docker-compose')
-                $COMPOSE_CMD down -v --remove-orphans || true
+
+            bat '''
+                docker compose down -v
             '''
         }
 
         failure {
-            sh '''
-                COMPOSE_CMD=$(docker compose version >/dev/null 2>&1 && echo 'docker compose' || echo 'docker-compose')
-                $COMPOSE_CMD logs --no-color --tail 100 || true
+
+            bat '''
+                docker compose logs
             '''
         }
     }
