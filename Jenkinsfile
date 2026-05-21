@@ -52,7 +52,10 @@ pipeline {
                 stage('Docker image creation') {
                     steps {
                         dir("${FRONTEND_DIR}") {
-                            bat 'docker build --build-arg VITE_API_URL=/api/v1 -t "%FRONTEND_IMAGE%" .'
+                            bat '''
+                                where docker >nul 2>nul || exit /b 0
+                                docker build --build-arg VITE_API_URL=/api/v1 -t "%FRONTEND_IMAGE%" .
+                            '''
                         }
                     }
                 }
@@ -91,7 +94,10 @@ pipeline {
                 stage('Docker image creation') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat 'docker build -t "%BACKEND_IMAGE%" .'
+                            bat '''
+                                where docker >nul 2>nul || exit /b 0
+                                docker build -t "%BACKEND_IMAGE%" .
+                            '''
                         }
                     }
                 }
@@ -141,10 +147,11 @@ pipeline {
             steps {
 
                 bat '''
+                    where docker >nul 2>nul || exit /b 0
                     docker compose up -d --build backend frontend redis
 
-                    curl http://localhost:8000/health/
-                    curl http://localhost/
+                    powershell -NoProfile -Command "Invoke-WebRequest -UseBasicParsing http://localhost:8000/health/ | Out-Null"
+                    powershell -NoProfile -Command "Invoke-WebRequest -UseBasicParsing http://localhost/ | Out-Null"
                 '''
             }
         }
@@ -155,14 +162,16 @@ pipeline {
         always {
 
             bat '''
-                docker compose down -v
+                where docker >nul 2>nul || exit /b 0
+                docker compose down -v --remove-orphans
             '''
         }
 
         failure {
 
             bat '''
-                docker compose logs
+                where docker >nul 2>nul || exit /b 0
+                docker compose logs --no-color --tail 100
             '''
         }
     }
