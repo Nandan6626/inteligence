@@ -3,7 +3,6 @@ pipeline {
 
     options {
         timestamps()
-        ansiColor('xterm')
         disableConcurrentBuilds()
         buildDiscarder(logRotator(numToKeepStr: '20'))
     }
@@ -20,8 +19,10 @@ pipeline {
     }
 
     stages {
+
         stage('Front-end Pipeline') {
             stages {
+
                 stage('Install dependencies') {
                     steps {
                         dir("${FRONTEND_DIR}") {
@@ -59,6 +60,7 @@ pipeline {
 
         stage('Back-end Pipeline') {
             stages {
+
                 stage('Install dependencies') {
                     steps {
                         dir("${BACKEND_DIR}") {
@@ -96,6 +98,7 @@ pipeline {
 
         stage('Agentic Orchestration Pipeline') {
             stages {
+
                 stage('Dependency handling') {
                     steps {
                         dir("${BACKEND_DIR}") {
@@ -147,6 +150,7 @@ pipeline {
     }
 
     post {
+
         always {
             sh '''
                 COMPOSE_CMD=$(docker compose version >/dev/null 2>&1 && echo 'docker compose' || echo 'docker-compose')
