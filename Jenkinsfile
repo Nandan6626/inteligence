@@ -10,13 +10,14 @@ pipeline {
     environment {
         FRONTEND_DIR = 'frontend'
         BACKEND_DIR = 'backend'
-        BACKEND_PYTHON = 'venv313\\Scripts\\python.exe'
+        BACKEND_PYTHON_CMD = ''
         FRONTEND_IMAGE = "ggraph-frontend:${BUILD_NUMBER}"
         BACKEND_IMAGE = "ggraph-backend:${BUILD_NUMBER}"
         COMPOSE_PROJECT_NAME = "ggraph-${BUILD_NUMBER}"
         VITE_API_URL = '/api/v1'
         DOCKER_BUILDKIT = '1'
         COMPOSE_DOCKER_CLI_BUILD = '1'
+        BACKEND_RUNTIME_AVAILABLE = 'false'
     }
 
     stages {
@@ -63,28 +64,38 @@ pipeline {
             }
         }
 
+        stage('Backend Toolchain Check') {
+            steps {
+                script {
+                    def backendPythonExists = fileExists("${env.BACKEND_DIR}/venv313/Scripts/python.exe")
+                    def pyLauncherExists = bat(returnStatus: true, script: 'where py >nul 2>nul') == 0
+                    def pythonExists = bat(returnStatus: true, script: 'where python >nul 2>nul') == 0
+
+                    env.BACKEND_RUNTIME_AVAILABLE = (backendPythonExists || pyLauncherExists || pythonExists) ? 'true' : 'false'
+                    env.BACKEND_PYTHON_CMD = backendPythonExists ? 'venv313\\Scripts\\python.exe' : (pyLauncherExists ? 'py -3' : (pythonExists ? 'python' : ''))
+
+                    if (env.BACKEND_RUNTIME_AVAILABLE != 'true') {
+                        echo 'Backend Python is not available on this Jenkins agent, so backend/orchestration stages will be skipped.'
+                    } else {
+                        echo 'Backend Python runtime detected.'
+                    }
+                }
+            }
+        }
+
         stage('Back-end Pipeline') {
+
+            when {
+                expression { env.BACKEND_RUNTIME_AVAILABLE == 'true' }
+            }
 
             stages {
 
                 stage('Install dependencies') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat '''
-                                if exist "%BACKEND_PYTHON%" (
-                                    "%BACKEND_PYTHON%" -m pip install --upgrade pip
-                                    "%BACKEND_PYTHON%" -m pip install -r requirements.txt
-                                ) else (
-                                    where py >nul 2>nul
-                                    if errorlevel 1 (
-                                        python -m pip install --upgrade pip
-                                        python -m pip install -r requirements.txt
-                                    ) else (
-                                        py -3 -m pip install --upgrade pip
-                                        py -3 -m pip install -r requirements.txt
-                                    )
-                                )
-                            '''
+                            bat "${BACKEND_PYTHON_CMD} -m pip install --upgrade pip"
+                            bat "${BACKEND_PYTHON_CMD} -m pip install -r requirements.txt"
                         }
                     }
                 }
@@ -92,18 +103,7 @@ pipeline {
                 stage('Execute tests') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat '''
-                                if exist "%BACKEND_PYTHON%" (
-                                    "%BACKEND_PYTHON%" test_run.py
-                                ) else (
-                                    where py >nul 2>nul
-                                    if errorlevel 1 (
-                                        python test_run.py
-                                    ) else (
-                                        py -3 test_run.py
-                                    )
-                                )
-                            '''
+                            bat "${BACKEND_PYTHON_CMD} test_run.py"
                         }
                     }
                 }
@@ -111,18 +111,7 @@ pipeline {
                 stage('Build services') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat '''
-                                if exist "%BACKEND_PYTHON%" (
-                                    "%BACKEND_PYTHON%" -m compileall app
-                                ) else (
-                                    where py >nul 2>nul
-                                    if errorlevel 1 (
-                                        python -m compileall app
-                                    ) else (
-                                        py -3 -m compileall app
-                                    )
-                                )
-                            '''
+                            bat "${BACKEND_PYTHON_CMD} -m compileall app"
                         }
                     }
                 }
@@ -142,23 +131,16 @@ pipeline {
 
         stage('Agentic Orchestration Pipeline') {
 
+            when {
+                expression { env.BACKEND_RUNTIME_AVAILABLE == 'true' }
+            }
+
             stages {
 
                 stage('Dependency handling') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat '''
-                                if exist "%BACKEND_PYTHON%" (
-                                    "%BACKEND_PYTHON%" -m pip install -r requirements.txt
-                                ) else (
-                                    where py >nul 2>nul
-                                    if errorlevel 1 (
-                                        python -m pip install -r requirements.txt
-                                    ) else (
-                                        py -3 -m pip install -r requirements.txt
-                                    )
-                                )
-                            '''
+                            bat "${BACKEND_PYTHON_CMD} -m pip install -r requirements.txt"
                         }
                     }
                 }
@@ -166,18 +148,7 @@ pipeline {
                 stage('Multi-agent orchestration setup') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat '''
-                                if exist "%BACKEND_PYTHON%" (
-                                    "%BACKEND_PYTHON%" -c "from dotenv import load_dotenv; from app.graph import workflow_app; load_dotenv(); print('LangGraph workflow initialized:', workflow_app is not None)"
-                                ) else (
-                                    where py >nul 2>nul
-                                    if errorlevel 1 (
-                                        python -c "from dotenv import load_dotenv; from app.graph import workflow_app; load_dotenv(); print('LangGraph workflow initialized:', workflow_app is not None)"
-                                    ) else (
-                                        py -3 -c "from dotenv import load_dotenv; from app.graph import workflow_app; load_dotenv(); print('LangGraph workflow initialized:', workflow_app is not None)"
-                                    )
-                                )
-                            '''
+                            bat "${BACKEND_PYTHON_CMD} -c \"from dotenv import load_dotenv; from app.graph import workflow_app; load_dotenv(); print('LangGraph workflow initialized:', workflow_app is not None)\""
                         }
                     }
                 }
@@ -185,18 +156,7 @@ pipeline {
                 stage('Service initialization') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat '''
-                                if exist "%BACKEND_PYTHON%" (
-                                    "%BACKEND_PYTHON%" -c "from app.config.settings import settings; from app.main import app; print('Backend service initialized:', settings.APP_NAME); print('FastAPI app title:', app.title)"
-                                ) else (
-                                    where py >nul 2>nul
-                                    if errorlevel 1 (
-                                        python -c "from app.config.settings import settings; from app.main import app; print('Backend service initialized:', settings.APP_NAME); print('FastAPI app title:', app.title)"
-                                    ) else (
-                                        py -3 -c "from app.config.settings import settings; from app.main import app; print('Backend service initialized:', settings.APP_NAME); print('FastAPI app title:', app.title)"
-                                    )
-                                )
-                            '''
+                            bat "${BACKEND_PYTHON_CMD} -c \"from app.config.settings import settings; from app.main import app; print('Backend service initialized:', settings.APP_NAME); print('FastAPI app title:', app.title)\""
                         }
                     }
                 }
@@ -204,18 +164,7 @@ pipeline {
                 stage('Workflow execution') {
                     steps {
                         dir("${BACKEND_DIR}") {
-                            bat '''
-                                if exist "%BACKEND_PYTHON%" (
-                                    "%BACKEND_PYTHON%" test_run.py
-                                ) else (
-                                    where py >nul 2>nul
-                                    if errorlevel 1 (
-                                        python test_run.py
-                                    ) else (
-                                        py -3 test_run.py
-                                    )
-                                )
-                            '''
+                            bat "${BACKEND_PYTHON_CMD} test_run.py"
                         }
                     }
                 }
