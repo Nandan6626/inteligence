@@ -41,3 +41,8 @@ MANIFEST
 # OS
 .DS_Store
 Thumbs.db
+
+.env
+.env.local
+.env.*
+node_modules/
