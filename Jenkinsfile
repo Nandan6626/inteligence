@@ -18,6 +18,7 @@ pipeline {
         DOCKER_BUILDKIT = '1'
         COMPOSE_DOCKER_CLI_BUILD = '1'
         BACKEND_RUNTIME_AVAILABLE = 'true'
+        BACKEND_CREDENTIALS_AVAILABLE = 'false'
     }
 
     stages {
@@ -79,6 +80,28 @@ pipeline {
             }
         }
 
+        stage('Backend Credential Check') {
+            steps {
+                script {
+                    def requiredKeys = [
+                        env.OPENAI_API_KEY,
+                        env.GOOGLE_API_KEY,
+                        env.GEMINI_API_KEY,
+                        env.CEREBRAS_API_KEY,
+                        env.GROQ_API_KEY
+                    ]
+
+                    env.BACKEND_CREDENTIALS_AVAILABLE = requiredKeys.any { it?.trim() } ? 'true' : 'false'
+
+                    if (env.BACKEND_CREDENTIALS_AVAILABLE != 'true') {
+                        echo 'Backend API credentials are not configured in Jenkins. Agentic workflow stages will be skipped.'
+                    } else {
+                        echo 'Backend API credentials detected in Jenkins environment.'
+                    }
+                }
+            }
+        }
+
         stage('Back-end Pipeline') {
 
             when {
@@ -97,6 +120,9 @@ pipeline {
                 }
 
                 stage('Execute tests') {
+                    when {
+                        expression { env.BACKEND_CREDENTIALS_AVAILABLE == 'true' }
+                    }
                     steps {
                         dir("${BACKEND_DIR}") {
                             bat '"%BACKEND_PYTHON%" test_run.py'
@@ -128,7 +154,10 @@ pipeline {
         stage('Agentic Orchestration Pipeline') {
 
             when {
-                expression { env.BACKEND_RUNTIME_AVAILABLE == 'true' }
+                allOf {
+                    expression { env.BACKEND_RUNTIME_AVAILABLE == 'true' }
+                    expression { env.BACKEND_CREDENTIALS_AVAILABLE == 'true' }
+                }
             }
 
             stages {
